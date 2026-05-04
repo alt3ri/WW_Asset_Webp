@@ -1,4 +1,4 @@
-Portraits_Linnai.png
+Portraits_Linnai.webp
 size:2048,2048
 filter:Linear,Linear
 scale:0.6
@@ -152,7 +152,7 @@ white eye
 bounds:2,1213,99,62
 offsets:0,0,103,62
 
-Portraits_Linnai_2.png
+Portraits_Linnai_2.webp
 size:2048,2048
 filter:Linear,Linear
 scale:0.6
@@ -214,7 +214,7 @@ bounds:848,961,409,397
 offsets:8,0,417,397
 rotate:90
 
-Portraits_Linnai_3.png
+Portraits_Linnai_3.webp
 size:2048,2048
 filter:Linear,Linear
 scale:0.6

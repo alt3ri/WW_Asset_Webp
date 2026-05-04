@@ -1,4 +1,4 @@
-Portraits_Zanni_Skin1.png
+Portraits_Zanni_Skin1.webp
 size:2048,2048
 filter:Linear,Linear
 scale:0.78
@@ -208,7 +208,7 @@ offsets:0,0,66,17
 zhedang
 bounds:1079,1492,84,73
 
-Portraits_Zanni_Skin1_2.png
+Portraits_Zanni_Skin1_2.webp
 size:2048,2048
 filter:Linear,Linear
 scale:0.78
@@ -356,7 +356,7 @@ neck_9
 bounds:880,1636,318,241
 rotate:90
 
-Portraits_Zanni_Skin1_3.png
+Portraits_Zanni_Skin1_3.webp
 size:2048,2048
 filter:Linear,Linear
 scale:0.78
