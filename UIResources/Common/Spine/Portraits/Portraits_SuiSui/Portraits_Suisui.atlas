@@ -1,0 +1,286 @@
+Portraits_Suisui.webp
+size:2048,2048
+filter:Linear,Linear
+scale:0.46
+Back_Hair
+bounds:1364,1728,326,314
+Back_Hair2
+bounds:748,1111,401,931
+offsets:51,0,452,931
+Back_Hair5
+bounds:408,438,684,458
+rotate:180
+Back_Hair7
+bounds:468,163,1128,1035
+rotate:270
+Black_Ribbon
+bounds:1681,1109,146,349
+Black_Ribbon2
+bounds:377,476,170,257
+offsets:0,27,177,284
+Black_Ribbon3
+bounds:252,1591,110,109
+Body
+bounds:1263,144,498,977
+offsets:17,909,515,1886
+rotate:180
+Bracelet
+bounds:489,927,61,48
+Chest _Pearl
+bounds:273,2012,72,26
+Chest_Red_Knot
+bounds:142,1251,45,76
+EX.穗穗右手复写 01
+bounds:457,1300,68,91
+offsets:7,8,81,106
+EX.穗穗右手复写 02
+bounds:148,1117,46,60
+offsets:7,8,60,75
+EX.穗穗右手复写 03
+bounds:426,940,98,101
+offsets:7,7,110,114
+EX.穗穗右手复写 04
+bounds:434,1977,68,65
+offsets:8,8,82,81
+EX.穗穗右手复写 05
+bounds:1141,1754,80,58
+offsets:7,8,94,73
+EX.穗穗右手复写 06
+bounds:2,630,110,318
+offsets:8,8,127,333
+EX.穗穗右手复写 07
+bounds:546,637,173,253
+offsets:6,7,185,268
+EX.穗穗右手复写 08
+bounds:68,38,309,147
+offsets:6,7,321,161
+EX.穗穗右手复写 09
+bounds:1678,5,496,269
+offsets:7,4,508,279
+rotate:90
+EX.穗穗右手复写 10
+bounds:496,1106,81,83
+offsets:7,8,97,97
+EX.穗穗右手复写 11
+bounds:184,1986,92,56
+offsets:5,6,103,69
+EX.穗穗右手复写 12
+bounds:271,1947,91,63
+offsets:10,7,109,76
+EX.穗穗右手复写 13
+bounds:437,1117,101,187
+offsets:7,7,124,507
+EX.穗穗右手复写 14
+bounds:707,1503,65,153
+offsets:8,8,81,168
+EX.穗穗右手复写 15
+bounds:101,886,69,347
+offsets:6,8,86,367
+EX.穗穗右手复写 16
+bounds:2,1296,36,100
+offsets:5,8,47,115
+EX.穗穗右手复写 17
+bounds:367,223,389,319
+offsets:10,10,406,336
+EX.穗穗右手复写 18
+bounds:1151,1267,228,432
+offsets:5,0,238,482
+EX.穗穗右手复写 19
+bounds:2,1423,220,562
+offsets:6,6,233,575
+EX.穗穗右手复写 20
+bounds:507,1643,211,399
+offsets:8,8,227,415
+EX.穗穗右手复写 23
+bounds:431,854,217,264
+offsets:6,6,231,277
+EX.穗穗右手复写 24
+bounds:150,1659,107,163
+offsets:8,7,121,176
+Front_Skirt_hem
+bounds:1313,552,617,1220
+offsets:473,0,1090,1220
+Hairpin
+bounds:1144,1087,132,219
+Hairpin3
+bounds:640,338,224,60
+Head
+bounds:1132,1790,218,252
+offsets:0,0,222,252
+Head_Red_Knot
+bounds:3,1543,58,84
+Jade
+bounds:120,1327,73,97
+Knot_Shadow
+bounds:767,1452,52,73
+Left_Bang
+bounds:889,79,132,198
+rotate:90
+Left_Down_Eyeshadow
+bounds:430,1039,76,29
+Left_Ear
+bounds:428,989,50,57
+offsets:0,28,58,85
+Left_Eardrop
+bounds:100,1907,10,34
+Left_Earlock
+bounds:186,1374,22,61
+offsets:2,0,24,61
+Left_Eyeball
+bounds:255,1713,36,32
+Left_Eyebrow
+bounds:502,847,76,31
+Left_Eyelash
+bounds:524,970,71,35
+Left_Eyelid2
+bounds:2,2027,41,15
+Left_Eyeshadow
+bounds:1297,2006,87,36
+Left_Foot
+bounds:2,936,99,305
+offsets:0,0,103,305
+Left_Hair
+bounds:711,1830,77,212
+Left_Hair2
+bounds:1646,1488,76,319
+Left_Leg
+bounds:1732,614,277,1428
+rotate:180
+Left_Skirt_hem
+bounds:2,594,949,1448
+Left_The_White_Of_The_Eye
+bounds:1024,2000,65,42
+Left_Upward_Eyelid
+bounds:300,2005,50,13
+Left_Upward_Eyeshadow
+bounds:81,860,89,34
+Mouth
+bounds:65,2014,47,28
+Pearl
+bounds:331,229,106,90
+Red String
+bounds:2,1221,38,76
+Red String2
+bounds:719,1623,47,81
+Right_Arm
+bounds:321,18,209,719
+rotate:90
+Right_Bang
+bounds:911,629,171,183
+Right_Eardrop
+bounds:108,1882,10,34
+Right_Earlock
+bounds:457,1363,20,66
+offsets:3,5,23,71
+Right_Elbow_Feather
+bounds:1708,383,168,192
+Right_EyeShadow
+bounds:42,904,62,32
+Right_Eyeball
+bounds:339,1591,36,30
+Right_Eyebrow
+bounds:1074,1956,69,18
+Right_Eyelash
+bounds:643,2006,74,36
+Right_Eyelid
+bounds:256,1689,55,23
+offsets:0,0,59,23
+Right_Eyelid2
+bounds:149,1861,39,23
+offsets:0,0,40,23
+Right_Foot
+bounds:2,1234,139,320
+Right_Hair
+bounds:2,240,66,218
+Right_Hair2
+bounds:573,372,104,341
+offsets:2,0,106,395
+rotate:90
+Right_Hand
+bounds:1209,1660,86,133
+offsets:0,19,86,152
+Right_Index_Finger
+bounds:124,1810,38,115
+Right_Knot
+bounds:161,1793,45,63
+Right_Mid_Finger
+bounds:203,1543,50,109
+offsets:0,0,50,138
+Right_Pearl
+bounds:405,2018,48,24
+Right_Shoulder_Ribbon
+bounds:2,460,195,391
+Right_Shoulder_Ribbon2
+bounds:59,461,115,164
+Right_Shoulder_Ribbon3
+bounds:1067,1968,96,74
+Right_Shoulderette3
+bounds:952,911,220,307
+Right_Skirt_hem
+bounds:2,108,453,1482
+offsets:0,13,453,1495
+rotate:180
+Right_Sleeve
+bounds:1349,1294,78,190
+Right_The_Ring_Finger
+bounds:714,1707,44,100
+offsets:0,0,44,102
+Right_The_White_Of_The_Eye
+bounds:123,2007,62,35
+offsets:0,8,63,46
+Right_Thumb
+bounds:2,1627,55,142
+Right_ear
+bounds:358,1916,33,70
+offsets:181,2,214,72
+Top_Hair
+bounds:1306,2,370,357
+rotate:180
+
+Portraits_Suisui_2.webp
+size:2048,2048
+filter:Linear,Linear
+scale:0.46
+202602_MC-LJZ_SHOT-1103_art_Suisui
+bounds:300,980,313,1396
+offsets:2217,1098,3083,4022
+rotate:270
+Back_Hair3
+bounds:44,1269,388,475
+rotate:270
+Back_Hair4
+bounds:1229,1124,699,571
+rotate:90
+Back_Hair6
+bounds:1321,868,900,725
+rotate:270
+Back_Hair8
+bounds:1054,1134,542,370
+rotate:90
+Back_Hair9
+bounds:326,371,689,876
+rotate:270
+EX.穗穗右手复写 21
+bounds:298,197,540,1423
+offsets:2,3,545,1431
+rotate:90
+EX.穗穗右手复写 22
+bounds:1240,230,1063,806
+offsets:0,0,1070,806
+rotate:90
+Head_Ribbon
+bounds:2,1283,299,540
+offsets:0,0,299,552
+Left_Red_Ribbon
+bounds:2,1142,518,1014
+rotate:90
+Right_Leg
+bounds:569,2,340,1376
+rotate:270
+Right_Shoulderette
+bounds:290,1477,283,1027
+rotate:270
+Right_Shoulderette2
+bounds:95,869,338,888
+offsets:0,0,339,888
+rotate:90
