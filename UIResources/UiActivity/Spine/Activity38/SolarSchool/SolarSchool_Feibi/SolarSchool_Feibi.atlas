@@ -1,0 +1,87 @@
+SolarSchool_Feibi.webp
+	size: 4096, 4096
+	filter: Linear, Linear
+	scale: 0.7
+K_害羞
+	bounds: 2, 2490, 380, 190
+K_开心
+	bounds: 2, 2682, 385, 191
+K_流汗
+	bounds: 1042, 3531, 938, 323
+K_生气
+	bounds: 2, 2875, 386, 193
+K_难过
+	bounds: 2, 2296, 372, 192
+eye_眉毛
+	bounds: 2, 354, 307, 49
+	offsets: 23, 36, 350, 105
+eye_眼珠
+	bounds: 418, 3542, 228, 76
+	offsets: 20, 20, 269, 115
+eye_眼白
+	bounds: 2, 501, 278, 65
+	offsets: 19, 20, 317, 105
+eye_眼皮
+	bounds: 2, 473, 287, 64
+	offsets: 19, 20, 326, 106
+eye_眼睑
+	bounds: 2, 429, 295, 62
+	offsets: 19, 16, 333, 97
+eye_眼线
+	bounds: 418, 3408, 256, 37
+	offsets: 20, 20, 296, 76
+eye_睫毛
+	bounds: 2, 365, 316, 56
+	offsets: 25, 19, 365, 97
+eye_睫毛尖尖_01
+	bounds: 487, 3650, 18, 15
+	offsets: 19, 20, 57, 55
+eye_睫毛尖尖_02
+	bounds: 487, 3663, 21, 13
+	offsets: 19, 20, 60, 52
+eye_睫毛尖尖_03
+	bounds: 469, 3610, 33, 11
+	offsets: 21, 19, 74, 53
+eye_睫毛尖尖_04
+	bounds: 418, 3538, 15, 17
+	offsets: 20, 20, 55, 56
+eye_睫毛尖尖_05
+	bounds: 487, 3636, 19, 13
+	offsets: 20, 20, 58, 53
+eye_睫毛尖尖_06
+	bounds: 473, 3597, 28, 12
+	offsets: 21, 20, 69, 52
+eye_高亮
+	bounds: 418, 3535, 189, 33
+	offsets: 69, 70, 327, 172
+zui_害羞嘴
+	bounds: 487, 3748, 91, 60
+zui_张嘴or微笑
+	bounds: 487, 3873, 95, 60
+zui_张大嘴or开心
+	bounds: 390, 2927, 101, 67
+zui_正常嘴
+	bounds: 384, 2534, 148, 146
+zui_流汗嘴
+	bounds: 487, 3935, 95, 62
+zui_生气嘴
+	bounds: 389, 2707, 113, 166
+zui_超开心嘴
+	bounds: 390, 2996, 104, 72
+zui_难过嘴
+	bounds: 487, 3810, 92, 61
+动作1
+	bounds: 989, 2311, 1134, 1222
+动作2
+	bounds: 1264, 127, 847, 1198
+	offsets: 29, 3, 1028, 1201
+动作3
+	bounds: 2, 2, 1607, 3995
+发1
+	bounds: 2, 3620, 483, 377
+发影子
+	bounds: 2, 3285, 414, 333
+害羞脸红
+	bounds: 2, 3070, 420, 213
+惊吓汗滴
+	bounds: 487, 3678, 52, 68

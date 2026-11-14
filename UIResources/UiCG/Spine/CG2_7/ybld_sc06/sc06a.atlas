@@ -1,0 +1,382 @@
+sc06a.webp
+size:4096,4096
+filter:Linear,Linear
+scale:0.76
+1
+bounds:1605,2995,1099,891
+offsets:301,57,1619,1068
+rotate:90
+10
+bounds:1170,3955,141,139
+11
+bounds:2,3735,118,122
+2
+bounds:180,3591,78,98
+3
+bounds:317,4034,59,60
+4
+bounds:281,4062,33,32
+5
+bounds:100,3696,35,37
+6
+bounds:2,3877,55,68
+7
+bounds:1335,3877,212,217
+8
+bounds:59,3860,33,36
+9
+bounds:76,4081,11,13
+Ti Deng
+bounds:2,1010,484,936
+Ti Deng2
+bounds:1685,3022,97,187
+baise
+bounds:59,4079,15,15
+door
+bounds:2,2297,1110,893
+offsets:782,261,2668,1300
+rotate:180
+guang xian_1
+bounds:1417,1006,2677,1208
+guang xian_11
+bounds:893,558,2344,1043
+offsets:0,4,2348,1051
+guang xian_16
+bounds:2022,1412,2682,1571
+offsets:0,0,2685,1575
+rotate:270
+guang xian_19
+bounds:3090,1052,733,1000
+offsets:0,0,735,1000
+rotate:270
+guang xian_25
+bounds:1678,653,761,470
+offsets:3,3,766,476
+guang xian_26
+bounds:1913,1021,736,371
+offsets:0,3,738,376
+guang xian_27
+bounds:2,5,1707,35
+guang xian_30
+bounds:190,3472,203,117
+offsets:0,4,203,121
+guang xian_32
+bounds:2496,3181,119,315
+offsets:0,3,119,321
+guang xian_35
+bounds:2,2910,445,287
+offsets:3,3,451,293
+guang xian_36
+bounds:1853,1086,711,286
+offsets:0,0,711,290
+guang xian_37
+bounds:4045,2206,1721,24
+rotate:90
+guang xian_7
+bounds:3900,2297,130,1035
+offsets:5,5,139,1044
+guang xian_9
+bounds:2409,1645,743,1040
+offsets:1,5,749,1049
+rotate:180
+heise
+bounds:60,3695,38,38
+newchibangyou
+bounds:2,2642,1681,1452
+shuzhi_10
+bounds:2790,3232,462,862
+shuzhi_12
+bounds:1813,9,1043,306
+rotate:180
+shuzhi_13
+bounds:3006,865,549,651
+offsets:8,0,557,651
+rotate:90
+shuzhi_14
+bounds:2338,1503,1265,1005
+rotate:90
+shuzhi_16
+bounds:2,3171,557,647
+offsets:0,0,557,651
+rotate:270
+shuzhi_17-1
+bounds:183,1773,857,283
+shuzhi_18
+bounds:994,1958,608,263
+shuzhi_19
+bounds:23,189,2022,604
+rotate:180
+shuzhi_20
+bounds:2128,578,1966,1271
+rotate:180
+shuzhi_21-3
+bounds:3459,2699,1012,584
+offsets:0,0,1024,584
+rotate:90
+shuzhi_22
+bounds:2,55,608,263
+shuzhi_23
+bounds:3177,2068,2022,604
+rotate:270
+shuzhi_24
+bounds:748,493,1966,1271
+rotate:270
+shuzhi_26
+bounds:2,1948,2225,940
+shuzhi_3
+bounds:3336,12,758,1050
+rotate:180
+shuzhi_5
+bounds:2859,96,1235,1135
+rotate:180
+shuzhi_7
+bounds:1305,213,354,922
+rotate:90
+shuzhi_8
+bounds:488,981,1309,1313
+rotate:270
+shuzhi_9
+bounds:3705,2228,333,1324
+rotate:180
+shuzhi_w
+bounds:1901,1861,2233,939
+rotate:270
+xm_1
+bounds:2,892,537,116
+offsets:3,2,540,118
+xm_2
+bounds:335,1974,407,160
+offsets:0,0,410,160
+xm_3
+bounds:110,3967,152,127
+offsets:0,1,154,129
+youshang1_1
+bounds:1549,3897,106,197
+offsets:6,2,112,201
+youshang1_10
+bounds:2,3198,335,132
+offsets:0,4,335,136
+youshang1_2
+bounds:1683,2651,64,213
+offsets:7,4,74,217
+youshang1_3
+bounds:3064,2686,78,253
+offsets:4,0,84,258
+youshang1_4
+bounds:2737,2809,115,278
+offsets:6,0,122,278
+youshang1_5
+bounds:2572,2555,176,265
+offsets:2,0,178,265
+youshang1_6
+bounds:1488,1762,234,228
+offsets:2,2,236,233
+youshang1_7
+bounds:2,2104,246,192
+youshang1_8
+bounds:1111,2592,268,170
+offsets:0,3,268,173
+youshang1_9
+bounds:2021,2390,296,147
+offsets:0,4,296,151
+youyou1_1
+bounds:1110,2406,502,287
+youyou1_10
+bounds:1188,1446,310,259
+youyou1_11
+bounds:1565,1398,321,256
+youyou1_12
+bounds:881,1379,376,210
+offsets:2,0,378,211
+youyou1_13
+bounds:1596,905,345,181
+offsets:2,1,347,192
+youyou1_14
+bounds:488,1592,450,179
+offsets:14,0,464,179
+youyou1_7
+bounds:1687,1627,230,217
+youyou1_8
+bounds:1598,1984,255,266
+offsets:0,0,256,266
+youyou1_9
+bounds:656,1104,236,258
+youyouxia1_1
+bounds:2,47,489,733
+rotate:90
+youyouxia1_10
+bounds:1685,2910,505,85
+youyouxia1_2
+bounds:2661,1889,591,727
+rotate:180
+youyouxia1_3
+bounds:949,735,850,750
+youyouxia1_4
+bounds:2014,682,1123,838
+youyouxia1_5
+bounds:2369,291,1418,871
+youyouxia1_9
+bounds:791,31,1130,223
+youzhong1_1
+bounds:488,1719,60,221
+offsets:3,0,67,221
+youzhong1_10
+bounds:825,371,322,185
+youzhong1_2
+bounds:2496,2977,76,292
+offsets:4,0,80,292
+youzhong1_3
+bounds:2996,2686,114,329
+offsets:7,0,124,330
+youzhong1_4
+bounds:2224,2538,192,378
+offsets:2,0,194,381
+youzhong1_5
+bounds:1573,3694,300,400
+youzhong1_6
+bounds:2823,3088,376,391
+youzhong1_7
+bounds:2859,212,469,365
+offsets:1,0,470,365
+youzhong1_8
+bounds:1114,699,511,333
+offsets:0,8,511,342
+youzhong1_9
+bounds:2,3006,470,262
+youzuo1_1
+bounds:1568,1127,572,721
+youzuo1_3
+bounds:916,3643,451,688
+offsets:0,1,451,689
+rotate:90
+youzuo1_4
+bounds:3699,59,378,673
+youzuo1_5
+bounds:2686,3424,300,670
+youzuo1_6
+bounds:3049,1784,356,662
+youzuo1_7
+bounds:3144,3483,232,587
+youzuo1_8
+bounds:566,653,115,463
+offsets:10,0,125,463
+youzuo1_9
+bounds:650,562,90,352
+offsets:3,0,97,363
+
+sc06a_2.webp
+size:4096,4096
+filter:Linear,Linear
+scale:0.76
+I
+bounds:3480,3378,614,343
+offsets:630,0,1263,343
+guang xian_10
+bounds:1840,3055,854,1039
+offsets:0,5,859,1048
+guang xian_12
+bounds:1411,2050,2683,787
+rotate:180
+guang xian_13
+bounds:1408,1601,2686,106
+offsets:0,3,2686,113
+guang xian_14
+bounds:2,831,2683,918
+offsets:0,0,2687,923
+guang xian_15
+bounds:1712,2971,1123,459
+rotate:90
+guang xian_17
+bounds:1141,3083,1011,871
+offsets:0,0,1015,876
+rotate:90
+guang xian_18
+bounds:2,2423,1470,1570
+offsets:0,0,1473,1573
+guang xian_2
+bounds:2,1683,2671,404
+rotate:180
+guang xian_20
+bounds:2518,897,794,1576
+offsets:0,0,797,1580
+rotate:90
+guang xian_21
+bounds:2841,2518,548,1576
+offsets:5,0,553,1581
+guang xian_22
+bounds:2664,2526,640,1568
+offsets:4,0,644,1573
+rotate:180
+guang xian_23
+bounds:2,173,1402,1570
+offsets:15,0,1417,1574
+rotate:270
+guang xian_24
+bounds:2,1859,1726,1573
+offsets:5,0,1731,1577
+rotate:270
+guang xian_28
+bounds:1436,2073,2021,593
+offsets:0,0,2023,595
+rotate:270
+guang xian_29
+bounds:1597,2581,1513,742
+offsets:0,0,1515,742
+rotate:270
+guang xian_3
+bounds:2,1036,2672,1003
+guang xian_31
+bounds:2,3509,683,585
+offsets:2,3,688,591
+guang xian_33
+bounds:898,3059,182,1035
+offsets:3,5,188,1043
+guang xian_34
+bounds:228,3010,1084,867
+offsets:2,3,1089,872
+rotate:90
+guang xian_38
+bounds:1047,2899,1195,527
+offsets:0,0,1198,530
+rotate:90
+guang xian_4
+bounds:2,975,2598,1046
+guang xian_5
+bounds:2,553,1688,1047
+guang xian_6
+bounds:2232,3486,608,1040
+offsets:4,5,612,1045
+rotate:270
+guang xian_8
+bounds:1080,3052,178,1042
+offsets:3,6,185,1048
+rotate:180
+shuzhi_1
+bounds:2,2248,402,1015
+shuzhi_11
+bounds:2829,509,1265,1005
+rotate:180
+shuzhi_15
+bounds:3059,2880,1035,306
+shuzhi_17-2
+bounds:1874,2848,1021,584
+offsets:3,0,1024,584
+shuzhi_2
+bounds:2936,2213,376,1158
+offsets:87,0,463,1158
+rotate:90
+shuzhi_21-1
+bounds:2231,3363,857,283
+shuzhi_4
+bounds:197,2039,357,1058
+shuzhi_6
+bounds:1410,2906,511,853
+youyouxia1_6
+bounds:2406,609,1490,829
+youyouxia1_7
+bounds:2377,14,1717,726
+youyouxia1_8
+bounds:2155,193,1939,680
+offsets:7,0,1946,680
+youzuo1_2
+bounds:3151,3379,520,715

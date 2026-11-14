@@ -1,0 +1,21 @@
+Pasture_Echo28.webp
+size:2036,1800
+filter:Linear,Linear
+前翅
+bounds:869,1303,1162,495
+后翅1
+bounds:1012,565,683,736
+后翅2
+bounds:2,27,365,773
+rotate:90
+头
+bounds:2,394,588,1008
+rotate:90
+手1
+bounds:1697,822,331,479
+手2
+bounds:777,2,210,390
+身体
+bounds:2,984,865,814
+阴影 拷贝 5
+bounds:1012,109,932,454

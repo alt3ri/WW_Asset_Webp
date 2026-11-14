@@ -1,0 +1,17 @@
+Pasture_Echo06.webp
+size:572,588
+filter:Linear,Linear
+←手
+bounds:2,457,129,228
+rotate:90
+→手
+bounds:2,219,200,281
+rotate:90
+双腿
+bounds:285,204,262,215
+头身
+bounds:2,2,200,543
+offsets:0,1,201,544
+rotate:90
+阴影 拷贝
+bounds:232,421,338,165

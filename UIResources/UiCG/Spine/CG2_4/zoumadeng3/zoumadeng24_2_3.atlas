@@ -1,0 +1,271 @@
+zoumadeng24_2_3.webp
+size:4096,4096
+filter:Linear,Linear
+scale:0.6
+da ka_arm1
+bounds:1901,454,602,782
+offsets:0,14,602,796
+rotate:90
+da ka_arm2
+bounds:2954,1882,1140,1093
+da ka_body
+bounds:657,1560,685,823
+rotate:270
+da ka_ear
+bounds:2817,3816,81,181
+da ka_hair1
+bounds:2,1245,1670,405
+offsets:0,0,2131,454
+rotate:180
+da ka_hair2
+bounds:2145,2028,1204,919
+offsets:0,0,1204,1031
+rotate:180
+da ka_hair3
+bounds:2046,1636,683,739
+offsets:0,0,1190,747
+da ka_hair41
+bounds:2753,1089,1341,570
+offsets:5,0,1747,664
+da ka_hair42
+bounds:1098,3920,452,174
+offsets:0,754,1027,928
+da ka_hair5
+bounds:495,1853,1601,637
+offsets:0,226,1948,863
+da ka_hair6
+bounds:2140,2490,1107,880
+offsets:0,0,1526,880
+da ka_head
+bounds:630,3234,310,341
+da ka_jiao
+bounds:1250,1465,337,190
+da ka_leg1
+bounds:2145,3372,722,670
+rotate:90
+da ka_leg2
+bounds:561,2492,740,569
+da ka_piaodai1
+bounds:2705,627,655,932
+rotate:270
+da ka_qunbai1
+bounds:1376,773,720,511
+da ka_qunbai11
+bounds:811,1007,442,416
+da ka_touguan1
+bounds:1303,2215,548,305
+da ka_touguan2
+bounds:1983,91,521,253
+da ka_wei1I
+bounds:2151,399,1135,284
+da ka_wei1II
+bounds:2161,340,1135,199
+offsets:0,34,1242,233
+da ka_wei1shipin
+bounds:3021,4038,206,56
+da ka_wei2
+bounds:2891,1544,1203,623
+offsets:0,317,1687,940
+fire1
+bounds:1661,3037,1057,483
+offsets:60,0,1167,590
+rotate:90
+fire3
+bounds:3493,3389,705,491
+offsets:32,0,737,491
+rotate:90
+frie11
+bounds:968,288,651,521
+offsets:44,0,695,621
+frie13
+bounds:561,2361,1733,1483
+rotate:90
+frie14
+bounds:780,854,1055,634
+offsets:0,0,1055,686
+frie21
+bounds:1578,1459,1138,489
+offsets:0,0,1618,889
+rotate:180
+frie23
+bounds:633,510,761,341
+offsets:0,119,1252,460
+frie24
+bounds:2817,2887,1207,986
+rotate:90
+frie27
+bounds:2817,3387,420,419
+frie28
+bounds:102,679,673,706
+rotate:270
+heise
+bounds:561,4064,30,30
+huan1
+bounds:1126,10,511,407
+rotate:180
+jianA
+bounds:1849,2579,285,153
+jianB
+bounds:3171,3117,188,268
+jianC
+bounds:1637,2135,328,96
+liu haida ka_hair1
+bounds:2455,2710,166,152
+offsets:3,3,169,155
+liu haida ka_hair1 shadow
+bounds:898,3716,68,68
+offsets:1,3,71,72
+liu haida ka_hair2
+bounds:2087,2880,123,154
+offsets:2,0,126,156
+liu haida ka_hair3
+bounds:760,3789,70,85
+offsets:0,2,70,88
+liu haida ka_hair4
+bounds:2,1969,204,253
+offsets:1,0,206,253
+liu haida ka_hair5
+bounds:3112,3804,156,66
+offsets:0,1,160,75
+piao-f_arm1
+bounds:3662,1444,378,312
+piao-f_arm2
+bounds:2174,1231,331,234
+offsets:0,1,331,235
+piao-f_bag
+bounds:417,365,356,656
+piao-f_bianzi1
+bounds:3389,812,466,460
+rotate:180
+piao-f_bianzi2
+bounds:51,310,851,348
+rotate:270
+piao-f_bianzi3
+bounds:3172,140,847,389
+rotate:180
+piao-f_body
+bounds:2367,2451,518,287
+piao-f_bu
+bounds:2416,2339,463,128
+offsets:0,0,463,163
+piao-f_dai mao
+bounds:3639,3755,103,71
+offsets:2,0,116,72
+piao-f_daizi1
+bounds:1545,3718,61,126
+offsets:0,0,61,127
+piao-f_daizi2
+bounds:3805,3406,101,158
+offsets:3,3,106,161
+piao-f_down leg
+bounds:3603,263,491,414
+offsets:0,9,491,423
+rotate:180
+piao-f_hair1
+bounds:2618,3222,175,148
+offsets:0,0,176,150
+piao-f_hair2
+bounds:3536,3627,234,202
+offsets:0,2,234,226
+piao-f_hair4
+bounds:815,3713,99,189
+offsets:0,0,101,190
+piao-f_hair5
+bounds:942,3327,155,173
+offsets:0,0,156,175
+piao-f_hair6
+bounds:709,3629,158,95
+offsets:0,3,161,101
+piao-f_hair7
+bounds:2973,3245,212,140
+offsets:1,2,215,142
+piao-f_hair8
+bounds:805,3102,334,194
+offsets:1,1,337,196
+piao-f_head
+bounds:1834,2734,251,303
+piao-f_hudiejie
+bounds:561,3093,243,142
+offsets:0,2,244,144
+piao-f_leg2
+bounds:2831,2648,775,737
+piao-f_shipin
+bounds:1570,3666,90,215
+offsets:7,0,97,215
+piao-f_sword-wind
+bounds:1989,757,899,797
+rotate:180
+sword-wind
+bounds:1989,757,899,797
+rotate:180
+piao-m_arm1
+bounds:329,1605,473,420
+offsets:0,0,476,420
+rotate:180
+piao-m_arm2
+bounds:1697,309,453,274
+offsets:0,0,460,274
+piao-m_bianzi1
+bounds:84,196,881,340
+rotate:180
+piao-m_bianzi2
+bounds:2506,144,857,454
+rotate:180
+piao-m_body
+bounds:2730,1666,260,316
+offsets:0,17,260,333
+piao-m_clothes
+bounds:3163,994,654,451
+offsets:112,86,940,542
+piao-m_down leg
+bounds:1383,392,513,518
+offsets:0,0,513,668
+piao-m_hair1
+bounds:741,3747,97,58
+offsets:7,0,106,61
+piao-m_hair10
+bounds:1487,3837,145,257
+offsets:0,7,145,264
+piao-m_hair21
+bounds:2308,2946,202,200
+offsets:9,0,211,203
+piao-m_hair22
+bounds:918,3943,262,151
+offsets:0,38,262,190
+piao-m_hair3
+bounds:3325,3949,151,145
+offsets:0,4,153,152
+piao-m_hair4
+bounds:3562,3494,110,165
+offsets:3,3,113,169
+piao-m_hair5
+bounds:3239,3591,58,188
+offsets:2,1,63,190
+piao-m_hair6
+bounds:1623,3902,37,150
+offsets:3,2,43,156
+piao-m_hair7
+bounds:3854,2995,240,85
+offsets:0,2,242,90
+piao-m_hair8
+bounds:1370,2162,263,148
+piao-m_hair9
+bounds:3854,2281,240,230
+offsets:0,1,242,231
+piao-m_head
+bounds:3805,3073,261,314
+piao-m_leg2
+bounds:3366,347,741,716
+rotate:90
+piao-m_neck
+bounds:2139,3036,178,173
+piao-m_shipin
+bounds:1303,2498,214,185
+piao-m_up leg
+bounds:2,1522,375,700
+offsets:0,0,375,701
+zhuzi
+bounds:2,2222,557,1872
+offsets:0,137,557,2471
+zhuzi2
+bounds:3986,3502,90,592

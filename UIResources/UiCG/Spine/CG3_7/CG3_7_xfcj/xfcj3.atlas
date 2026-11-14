@@ -1,0 +1,307 @@
+xfcj3.webp
+size:4096,4096
+filter:Linear,Linear
+scale:0.95
+NPC - 1
+bounds:1742,285,1166,1277
+rotate:90
+NPC - 3
+bounds:3492,1825,297,230
+rotate:180
+ash - 1
+bounds:2018,2317,27,17
+ash - 10
+bounds:1222,1141,84,30
+ash - 11
+bounds:1315,1331,37,31
+ash - 12
+bounds:1810,1062,32,31
+ash - 13
+bounds:2373,2609,39,82
+ash - 14
+bounds:1635,2314,53,20
+ash - 15
+bounds:1956,2317,29,17
+ash - 16
+bounds:1287,1187,45,38
+ash - 17
+bounds:1759,2312,30,22
+ash - 18
+bounds:1016,1126,54,53
+ash - 19
+bounds:1726,2312,31,22
+ash - 2
+bounds:1895,2315,27,19
+ash - 20
+bounds:2373,2574,54,33
+ash - 21
+bounds:1791,2314,32,20
+ash - 22
+bounds:1072,1144,79,35
+ash - 23
+bounds:3651,4025,124,67
+ash - 24
+bounds:1222,1173,63,144
+ash - 25
+bounds:1287,1227,46,38
+ash - 26
+bounds:1222,1319,91,118
+ash - 27
+bounds:1987,2318,29,16
+ash - 28
+bounds:1308,1152,32,33
+ash - 29
+bounds:3344,3151,140,143
+ash - 3
+bounds:1690,2313,34,21
+ash - 30
+bounds:2373,2760,59,73
+ash - 31
+bounds:2107,2320,26,14
+ash - 32
+bounds:2373,2693,55,65
+ash - 33
+bounds:1785,1000,53,29
+ash - 34
+bounds:2373,2928,44,140
+ash - 35
+bounds:1924,2317,30,17
+ash - 36
+bounds:2080,2319,25,15
+ash - 37
+bounds:2047,2320,31,14
+ash - 38
+bounds:1858,2319,35,15
+ash - 39
+bounds:1858,2307,23,10
+ash - 4
+bounds:1315,1364,34,73
+ash - 5
+bounds:3651,3931,85,92
+ash - 6
+bounds:1153,1131,67,40
+ash - 7
+bounds:1825,2316,31,18
+ash - 8
+bounds:3344,3296,121,69
+ash - 9
+bounds:3442,3452,31,30
+bg
+bounds:2,3070,2432,1022
+bird01
+bounds:1619,656,185,96
+ccloud1
+bounds:768,384,367,68
+ccloud12
+bounds:3490,1784,2308,440
+rotate:270
+ccloud13
+bounds:1784,59,1386,225
+offsets:469,0,1855,225
+rotate:180
+ccloud2
+bounds:3932,3632,460,82
+rotate:90
+ccloud3
+bounds:2,1129,292,50
+ccloud5
+bounds:3343,2649,500,86
+rotate:90
+ccloud6
+bounds:3932,3189,430,82
+rotate:90
+ccloud7
+bounds:1137,391,215,61
+clouds - 1
+bounds:1257,44,506,86
+clouds - 2
+bounds:642,1137,201,42
+clouds - 3
+bounds:826,16,429,114
+clouds - 4
+bounds:296,1141,344,38
+clouds - 5
+bounds:1362,2307,271,27
+fire_10
+bounds:3021,794,993,821
+offsets:0,0,1256,821
+rotate:90
+fire_11
+bounds:1429,612,508,390
+offsets:2057,0,2565,390
+rotate:270
+fire_12
+bounds:1736,415,343,207
+offsets:118,0,525,235
+fire_3
+bounds:3303,59,1074,749
+offsets:254,0,1328,749
+rotate:90
+fire_4
+bounds:2435,2306,1786,906
+rotate:90
+fire_5
+bounds:2,454,1425,666
+fire_6
+bounds:2851,1449,338,163
+rotate:90
+fire_9
+bounds:3932,1711,544,154
+rotate:90
+fire_lizi1
+bounds:3343,2307,340,138
+rotate:90
+firelight1
+bounds:216,27,608,103
+firelight3
+bounds:3344,3484,608,198
+rotate:90
+firelight4
+bounds:3544,3743,349,105
+rotate:90
+firesmoke1
+bounds:3932,2257,412,155
+rotate:90
+fog1
+bounds:1362,1789,2128,515
+fog2
+bounds:1362,1122,1487,665
+gggg1
+bounds:612,1181,608,256
+gggg2
+bounds:2,1181,608,256
+heikuang
+bounds:1635,2308,10,4
+jbbox - 1
+bounds:3021,373,239,503
+offsets:0,145,239,648
+jbbox - 3
+bounds:3172,37,106,334
+jbbox - 4
+bounds:2372,2306,60,253
+jbsh - 1
+bounds:2,2,450,212
+rotate:90
+jbsh - 2
+bounds:216,336,157,116
+mountion - 3
+bounds:249,131,1855,523
+rotate:180
+spark - 1
+bounds:1797,1031,52,29
+spark - 2
+bounds:2373,2835,50,91
+spark - 3
+bounds:1883,2308,8,9
+spark - 4
+bounds:3344,3388,96,94
+spark - 5
+bounds:2135,2315,18,19
+spark - 6
+bounds:1287,1267,68,50
+strlight1
+bounds:3844,1135,494,221
+rotate:90
+strlight2
+bounds:2,1439,1358,895
+xfc
+bounds:2,2336,2369,732
+xxx1
+bounds:3932,2671,516,80
+rotate:90
+xxx2
+bounds:845,1130,169,49
+xxx3
+bounds:2264,1059,228,61
+
+xfcj3_2.webp
+size:4096,4096
+filter:Linear,Linear
+scale:0.95
+NPC - 2
+bounds:3117,2283,721,778
+offsets:0,0,721,1277
+rotate:180
+bird02
+bounds:1655,1396,1510,320
+ccloud10
+bounds:2,364,992,858
+offsets:0,0,1958,858
+ccloud11
+bounds:2,1899,1221,461
+offsets:0,0,1400,461
+ccloud14
+bounds:2396,3673,919,421
+offsets:359,0,1278,953
+ccloud15
+bounds:2,2980,1148,386
+ccloud4
+bounds:2,4012,449,82
+ccloud8
+bounds:3194,1015,1063,900
+rotate:90
+ccloud9
+bounds:2,2362,1419,280
+d_light_1
+bounds:1418,2803,736,766
+rotate:90
+d_light_2
+bounds:2185,2533,929,637
+d_light_3
+bounds:2702,1617,915,761
+rotate:180
+d_light_4
+bounds:1120,3478,468,549
+d_light_5
+bounds:798,2644,819,969
+rotate:270
+d_light_6
+bounds:1929,3369,496,725
+dlight_gggg
+bounds:1065,591,998,809
+rotate:180
+ffirelizi
+bounds:3317,3403,691,428
+rotate:90
+fire_1
+bounds:817,3484,610,301
+offsets:70,0,680,301
+rotate:90
+fire_13
+bounds:3571,2814,1146,523
+offsets:0,0,1146,556
+rotate:90
+fire_2
+bounds:1065,1609,934,605
+offsets:0,0,1005,605
+fire_7
+bounds:240,3828,339,182
+fire_8
+bounds:611,3368,631,407
+rotate:180
+firelight2
+bounds:2,3483,608,173
+gggg3
+bounds:581,3779,315,234
+rotate:90
+jbbox - 2
+bounds:2,3658,171,477
+offsets:0,26,171,503
+rotate:90
+mountion - 1
+bounds:1423,2216,386,1278
+rotate:270
+mountion - 2
+bounds:2427,3172,319,1142
+rotate:90
+smoke - 1
+bounds:80,1223,848,983
+offsets:643,0,1491,983
+rotate:90
+smoke - 2
+bounds:1461,3476,467,489
+offsets:0,0,678,489
+rotate:180
+strlight2_0
+bounds:2,3829,237,181
+offsets:119,75,463,256

@@ -1,0 +1,21 @@
+Pasture_Echo41.webp
+size:1296,892
+filter:Linear,Linear
+←臂
+bounds:525,13,352,517
+rotate:90
+→手臂
+bounds:2,60,363,521
+rotate:90
+双脚
+bounds:1054,2,397,231
+rotate:90
+头
+bounds:2,425,667,465
+身体
+bounds:671,367,523,381
+offsets:0,0,523,382
+rotate:90
+阴影 拷贝 8
+bounds:1054,401,489,238
+rotate:90

@@ -1,0 +1,25 @@
+Pasture_Echo32.webp
+size:1660,1100
+filter:Linear,Linear
+双腿
+bounds:1383,186,417,272
+offsets:0,0,418,272
+rotate:90
+右手
+bounds:1087,2,294,601
+offsets:0,1,294,602
+头
+bounds:727,182,289,299
+rotate:90
+左手
+bounds:1087,605,491,546
+rotate:90
+肩膀
+bounds:2,357,739,592
+rotate:90
+身体
+bounds:596,473,623,489
+offsets:0,0,623,490
+rotate:90
+阴影 拷贝
+bounds:2,3,723,352

@@ -1,0 +1,133 @@
+SolarSchool_Shouanren.webp
+	size: 4096, 2048
+	filter: Linear, Linear
+	scale: 0.75
+A_eye_2_闭眼
+	bounds: 2403, 1712, 371, 254
+	offsets: 7, 3, 390, 259
+A_eye_眉毛01
+	bounds: 872, 1826, 323, 74
+	offsets: 22, 21, 368, 117
+A_eye_眉窝08
+	bounds: 1014, 1917, 48, 49
+	offsets: 22, 22, 92, 94
+A_eye_眼珠05
+	bounds: 1122, 1859, 246, 107
+	offsets: 21, 22, 287, 152
+A_eye_眼白06
+	bounds: 870, 1865, 288, 101
+	offsets: 20, 21, 329, 143
+A_eye_眼睑03
+	bounds: 1455, 1824, 310, 105
+	offsets: 19, 20, 347, 146
+A_eye_眼线04
+	bounds: 1599, 1843, 272, 67
+	offsets: 23, 22, 318, 112
+A_eye_眼线阴影07
+	bounds: 943, 1954, 66, 12
+	offsets: 22, 22, 110, 57
+A_eye_睫毛02
+	bounds: 870, 1834, 343, 84
+	offsets: 20, 22, 383, 127
+A_eye_睫毛尖尖_L_01
+	bounds: 1062, 1946, 35, 20
+	offsets: 21, 21, 77, 62
+A_eye_睫毛尖尖_L_02
+	bounds: 1048, 1934, 68, 32
+	offsets: 21, 19, 109, 73
+A_eye_睫毛尖尖_L_03
+	bounds: 1590, 1937, 26, 29
+	offsets: 22, 21, 70, 71
+A_eye_睫毛尖尖_R_01
+	bounds: 1180, 1942, 37, 24
+	offsets: 22, 20, 80, 66
+A_eye_睫毛尖尖_R_02
+	bounds: 1943, 1931, 71, 35
+	offsets: 21, 20, 113, 77
+A_eye_睫毛尖尖_R_03
+	bounds: 1214, 1922, 107, 44
+	offsets: 23, 21, 150, 86
+A_eye_高亮
+	bounds: 2202, 1908, 202, 58
+	offsets: 22, 23, 245, 104
+A_zui_01_平静
+	bounds: 1338, 1959, 24, 7
+	offsets: 22, 22, 68, 51
+A_zui_02_微笑
+	bounds: 1629, 1956, 33, 10
+	offsets: 22, 21, 76, 53
+A_zui_03_闭眼
+	bounds: 1312, 1956, 26, 10
+	offsets: 22, 21, 71, 53
+A_zui_04_疑惑
+	bounds: 1097, 1956, 35, 10
+	offsets: 12, 20, 65, 51
+A_zui_05_严肃
+	bounds: 1219, 1957, 36, 9
+	offsets: 21, 21, 74, 51
+A_zui_06_害羞
+	bounds: 1605, 1956, 23, 10
+	offsets: 20, 21, 63, 52
+A_zui_07_心不在焉
+	bounds: 1504, 1955, 33, 11
+	offsets: 19, 21, 74, 53
+A_前发
+	bounds: 698, 59, 740, 1018
+	rotate: 270
+A_肩头
+	bounds: 2141, 2, 964, 787
+	offsets: 4, 3, 968, 790
+	rotate: 180
+B_01_zui_嘴
+	bounds: 1282, 1952, 37, 14
+	offsets: 16, 21, 73, 58
+B_eye_眉毛
+	bounds: 1615, 1895, 326, 43
+	offsets: 20, 20, 360, 83
+B_eye_眼影
+	bounds: 1233, 1949, 57, 17
+	offsets: 23, 22, 103, 61
+B_eye_眼珠
+	bounds: 1365, 1886, 239, 80
+	offsets: 22, 22, 281, 124
+B_eye_眼白
+	bounds: 3755, 1913, 279, 53
+	offsets: 22, 21, 323, 96
+B_eye_眼睑
+	bounds: 3788, 1871, 306, 59
+	offsets: 19, 21, 345, 101
+B_eye_眼线
+	bounds: 1244, 1939, 265, 27
+	offsets: 23, 23, 313, 73
+B_eye_睫毛
+	bounds: 1605, 1912, 343, 54
+	offsets: 19, 19, 381, 98
+B_前发
+	bounds: 3096, 185, 764, 998
+	offsets: 0, 7, 1156, 1005
+	rotate: 270
+B_肩头
+	bounds: 2791, 917, 964, 1049
+	offsets: 4, 0, 968, 1071
+CK_严肃
+	bounds: 3686, 1307, 386, 206
+CK_害羞
+	bounds: 221, 400, 475, 275
+CK_微笑
+	bounds: 3671, 1105, 389, 200
+CK_心不在焉
+	bounds: 3705, 1515, 389, 212
+CK_疑惑
+	bounds: 479, 1754, 389, 212
+害羞脸红
+	bounds: 2, 1720, 475, 246
+手臂抬起
+	bounds: 1797, 34, 545, 702
+	offsets: 21, 14, 589, 731
+手臂放下
+	bounds: 2, 24, 794, 393
+	offsets: 15, 20, 827, 430
+身体
+	bounds: 2, 661, 1305, 2959
+	offsets: 10, 1, 1321, 2960
+	rotate: 90

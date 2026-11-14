@@ -1,0 +1,21 @@
+Pasture_Echo16.webp
+size:1028,652
+filter:Linear,Linear
+右手
+bounds:2,11,153,221
+rotate:90
+头
+bounds:2,166,468,482
+头 拷贝
+bounds:225,33,131,191
+offsets:0,0,131,192
+rotate:90
+左手
+bounds:472,41,184,380
+衣服
+bounds:658,201,366,220
+衣服底
+bounds:658,2,353,197
+offsets:0,0,354,197
+阴影
+bounds:472,423,461,225

@@ -1,0 +1,269 @@
+CatapultStory_Aimisi.webp
+size:2048,2048
+filter:Linear,Linear
+A_前发
+bounds:475,1164,702,487
+rotate:270
+A_发饰
+bounds:1607,59,87,119
+offsets:7,6,101,132
+A_后发
+bounds:2,1151,535,715
+offsets:4,6,559,726
+A_呆毛
+bounds:671,63,125,142
+offsets:5,37,144,184
+rotate:90
+A_嘴
+bounds:2,1561,39,23
+offsets:3,3,47,31
+A_手 ←
+bounds:1045,58,136,173
+offsets:6,5,148,185
+rotate:270
+A_手 →
+bounds:1367,1482,99,175
+offsets:7,8,113,192
+rotate:90
+A_手 → 片
+bounds:750,1769,97,176
+offsets:36,0,136,220
+rotate:90
+A_环 前
+bounds:2,146,122,243
+offsets:6,6,133,253
+rotate:270
+A_环 后
+bounds:1517,1025,617,529
+rotate:90
+A_眼睛
+bounds:1565,306,319,116
+offsets:6,4,331,126
+A_睫毛
+bounds:246,109,409,90
+offsets:0,5,412,97
+A_置换块
+bounds:13,2,176,154
+offsets:0,5,182,164
+rotate:180
+A_脸
+bounds:555,718,478,333
+offsets:5,4,507,341
+rotate:90
+A_腿 ←
+bounds:1215,67,89,97
+offsets:7,7,102,111
+A_腿 →
+bounds:419,1229,76,97
+offsets:7,8,91,112
+A_衣飘
+bounds:2,1106,294,131
+offsets:3,6,302,143
+rotate:270
+A_身
+bounds:820,1080,160,165
+offsets:46,15,218,187
+A_身 飘 ←
+bounds:83,1136,88,76
+offsets:3,7,97,88
+A_身 飘 →
+bounds:874,1000,59,81
+offsets:121,7,185,157
+A_高光
+bounds:1069,622,505,284
+rotate:90
+A_鬓发 ←
+bounds:364,304,163,256
+offsets:4,5,172,265
+rotate:270
+A_鬓发 →
+bounds:1854,235,137,253
+offsets:2,5,151,263
+B_手 ←
+bounds:2,477,84,174
+offsets:8,7,99,189
+B_手 →
+bounds:1143,1736,130,177
+offsets:6,22,157,207
+rotate:270
+B_环 前
+bounds:1608,1674,112,235
+offsets:6,6,126,249
+rotate:90
+B_环 后
+bounds:880,736,640,531
+offsets:0,0,642,531
+rotate:180
+B_腿 ←
+bounds:181,4,79,94
+offsets:7,8,92,109
+B_腿 →
+bounds:502,1390,86,96
+offsets:7,7,101,110
+B_高光
+bounds:60,558,505,280
+offsets:0,1,505,284
+C_前发 ←
+bounds:1428,385,118,351
+offsets:8,5,132,361
+rotate:90
+C_前发 →
+bounds:1557,1771,95,321
+offsets:7,8,108,336
+rotate:90
+C_后发 ←
+bounds:773,390,166,340
+offsets:8,4,182,350
+rotate:90
+C_后发 →
+bounds:1665,215,118,231
+offsets:5,4,131,238
+rotate:90
+C_头盔
+bounds:931,1208,658,437
+offsets:3,2,664,441
+rotate:270
+C_头盔甲 ←
+bounds:686,242,164,257
+offsets:3,5,170,267
+rotate:90
+C_头盔甲 →
+bounds:566,161,127,218
+offsets:7,6,140,230
+rotate:90
+C_头羽 ← 0
+bounds:1512,59,91,113
+offsets:6,7,103,124
+C_头羽 ← 1
+bounds:1317,221,195,247
+offsets:4,4,204,256
+rotate:90
+C_头羽 ← 2
+bounds:2,234,262,204
+offsets:5,4,271,212
+rotate:180
+C_头羽 ← 3
+bounds:402,379,371,255
+offsets:6,4,382,259
+rotate:180
+C_头羽 → 0
+bounds:519,1596,78,103
+offsets:8,7,93,118
+C_头羽 → 1
+bounds:1123,154,179,229
+offsets:6,7,189,243
+rotate:270
+C_头羽 → 2
+bounds:1866,95,180,189
+offsets:8,5,193,197
+rotate:180
+C_头羽 → 3
+bounds:1413,1562,304,264
+offsets:8,4,320,276
+rotate:90
+C_手 ←
+bounds:2,1414,90,141
+offsets:7,7,101,152
+C_手 →
+bounds:479,839,72,123
+offsets:6,8,86,137
+C_护臂 ←
+bounds:909,1653,80,96
+offsets:7,7,94,110
+C_护臂 →
+bounds:1258,1250,70,96
+offsets:7,6,84,109
+C_羽翼 ← 0
+bounds:1348,111,107,190
+offsets:6,3,116,196
+rotate:90
+C_羽翼 ← 1
+bounds:1437,1056,153,186
+offsets:0,5,157,197
+C_羽翼 ← 2
+bounds:1502,157,202,145
+offsets:3,5,208,152
+C_羽翼 ← 3
+bounds:953,163,220,98
+offsets:3,4,268,107
+C_羽翼 ← 小
+bounds:2,60,115,127
+offsets:5,7,125,142
+C_羽翼 → 0
+bounds:1620,1311,109,186
+offsets:3,5,116,196
+rotate:270
+C_羽翼 → 1
+bounds:387,1099,149,186
+offsets:5,5,157,197
+rotate:270
+C_羽翼 → 2
+bounds:378,172,200,144
+offsets:6,5,208,152
+C_羽翼 → 3
+bounds:2,702,225,98
+offsets:2,6,230,107
+rotate:90
+C_羽翼 → 小
+bounds:477,979,94,121
+offsets:7,5,108,133
+C_肩甲
+bounds:610,504,213,71
+offsets:3,3,217,80
+C_脸
+bounds:2,814,489,337
+offsets:5,7,501,350
+C_腿 ←
+bounds:1350,698,75,106
+offsets:3,4,80,112
+C_腿 →
+bounds:259,10,78,107
+offsets:0,3,80,110
+C_腿羽 ←
+bounds:2,1805,56,61
+offsets:1,5,63,69
+C_腿羽 →
+bounds:413,1767,53,58
+offsets:1,5,57,67
+C_身上
+bounds:1695,97,171,94
+offsets:2,8,178,111
+rotate:180
+C_身下
+bounds:940,261,190,135
+offsets:6,4,202,147
+C_饰品
+bounds:1486,622,560,372
+offsets:1,0,563,376
+Q_枪主
+bounds:1114,382,112,312
+offsets:10,0,171,312
+rotate:90
+Q_枪口
+bounds:813,157,138,118
+Q_枪把
+bounds:1660,511,238,291
+rotate:270
+Q_枪护
+bounds:72,390,328,221
+Q_枪护支
+bounds:234,234,210,114
+offsets:0,21,210,135
+Q_枪星
+bounds:906,59,106,136
+rotate:90
+Q_枪杆
+bounds:508,577,140,572
+rotate:90
+Q_枪流
+bounds:148,449,162,118
+Q_枪羽
+bounds:1332,1185,658,216
+rotate:270
+Q_枪羽支
+bounds:374,1804,127,62
+offsets:0,6,132,73
+弹珠
+bounds:1082,629,98,98
+阴影
+bounds:1082,496,449,124

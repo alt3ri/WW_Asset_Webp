@@ -1,0 +1,334 @@
+DangoBrawl_Xin.webp
+size:1024,1024
+filter:Linear,Linear
+scale:0.42
+YY 1
+bounds:64,106,68,170
+offsets:6,5,80,182
+rotate:90
+YY 2
+bounds:692,437,69,41
+offsets:6,6,83,55
+rotate:90
+YY 3
+bounds:538,379,76,84
+offsets:6,7,87,98
+YY 4
+bounds:292,221,185,146
+offsets:7,127,352,277
+rotate:180
+YY 5
+bounds:560,786,23,81
+offsets:7,7,37,95
+YY 6
+bounds:433,947,64,34
+offsets:7,7,79,47
+→
+bounds:211,145,110,110
+offsets:3,3,118,116
+rotate:90
+→ 拷贝
+bounds:479,855,127,126
+offsets:5,6,137,137
+中心吊坠
+bounds:809,96,74,77
+offsets:9,11,106,94
+侧发 ←
+bounds:191,526,369,275
+offsets:4,4,375,283
+侧发 ← 拷贝
+bounds:907,178,115,123
+offsets:6,7,396,303
+侧发 →
+bounds:419,344,215,209
+offsets:6,5,227,219
+侧发 → 定 前
+bounds:581,168,152,81
+offsets:7,5,162,97
+侧发 → 定 后
+bounds:2,509,221,207
+offsets:5,7,232,220
+rotate:90
+侧发 → 拷贝
+bounds:2,227,125,124
+offsets:115,5,247,239
+侧后发 ←
+bounds:716,159,84,190
+offsets:11,8,102,205
+rotate:90
+侧后发 ← 拷贝
+bounds:351,141,98,97
+offsets:6,6,122,226
+rotate:90
+侧后发 →
+bounds:4,166,80,199
+offsets:6,7,92,212
+rotate:270
+侧后发 → 拷贝
+bounds:725,86,99,91
+offsets:6,5,111,103
+发饰
+bounds:158,622,86,115
+offsets:3,5,95,125
+rotate:270
+发饰 拷贝
+bounds:939,881,82,114
+offsets:6,22,115,145
+发饰条 1
+bounds:955,534,67,32
+offsets:7,7,81,45
+发饰条 1 拷贝
+bounds:867,379,47,45
+offsets:6,7,101,66
+发饰条 2
+bounds:100,207,97,54
+offsets:6,6,110,67
+发饰条 2 拷贝
+bounds:436,605,98,54
+offsets:6,6,130,87
+发饰条 3
+bounds:890,929,57,60
+offsets:9,6,74,74
+发饰条 3 拷贝
+bounds:387,671,74,59
+offsets:6,5,92,94
+后脑壳
+bounds:732,450,290,93
+offsets:4,5,299,103
+rotate:180
+后脑壳 拷贝
+bounds:360,979,287,43
+offsets:17,73,319,123
+图层 1
+bounds:2,989,17,15
+offsets:7,6,30,28
+图层 2
+bounds:1001,974,16,16
+offsets:7,6,30,28
+图层 3
+bounds:2,727,114,38
+offsets:8,8,129,52
+rotate:270
+图层 4
+bounds:2,37,113,37
+offsets:8,7,129,51
+图层 5
+bounds:549,96,82,91
+offsets:34,7,123,111
+rotate:90
+图层 6
+bounds:886,115,82,93
+offsets:9,7,98,108
+rotate:90
+圈发
+bounds:707,232,96,145
+offsets:6,7,127,164
+rotate:90
+头
+bounds:578,716,392,282
+offsets:5,5,401,293
+rotate:180
+头 拷贝
+bounds:2,957,392,65
+offsets:14,6,421,313
+开心 嘴
+bounds:393,967,38,18
+offsets:8,7,54,33
+开心 眉毛 ←
+bounds:800,1001,109,21
+offsets:4,7,120,35
+开心 眉毛 →
+bounds:899,1002,104,20
+offsets:7,8,120,35
+rotate:180
+开心 眼 ←
+bounds:126,448,94,58
+offsets:7,6,108,71
+开心 眼 →
+bounds:2,94,92,58
+offsets:7,5,107,69
+开心 眼窝 ←
+bounds:490,1006,26,16
+offsets:7,6,39,29
+开心 眼窝 →
+bounds:464,1006,25,16
+offsets:7,6,39,29
+开心 睫毛 ←
+bounds:859,46,133,36
+offsets:4,6,142,49
+开心 睫毛 →
+bounds:135,919,127,38
+offsets:7,4,142,49
+开心 红痣
+bounds:426,1012,9,10
+offsets:7,6,23,23
+开心 腮红 ←
+bounds:35,475,59,26
+offsets:7,10,72,44
+开心 腮红 →
+bounds:120,907,54,25
+offsets:11,12,73,45
+开心 高光 ←
+bounds:447,1010,15,12
+offsets:7,8,29,27
+开心 高光 →
+bounds:537,1009,14,13
+offsets:7,7,29,27
+待机 嘴
+bounds:288,949,23,10
+得逞 嘴
+bounds:325,1011,35,11
+offsets:7,7,49,25
+得逞 眉毛 ←
+bounds:922,990,95,19
+offsets:7,11,109,37
+rotate:180
+得逞 眉毛 →
+bounds:831,987,96,18
+offsets:7,7,109,32
+得逞 眼 ←
+bounds:200,61,93,52
+offsets:7,7,108,66
+得逞 眼 →
+bounds:81,61,94,51
+offsets:7,7,107,76
+得逞 眼窝 ←
+bounds:606,944,24,17
+offsets:7,7,39,30
+得逞 眼窝 →
+bounds:589,955,25,16
+offsets:7,7,39,30
+得逞 睫毛 ←
+bounds:174,35,130,39
+offsets:8,6,143,51
+得逞 睫毛 →
+bounds:590,38,130,38
+offsets:5,19,142,64
+rotate:180
+得逞 腮红 ←
+bounds:960,704,62,27
+offsets:3,10,72,44
+得逞 腮红 →
+bounds:2,559,54,26
+offsets:11,11,73,45
+得逞 高光 ←
+bounds:517,1009,19,13
+offsets:7,7,34,26
+得逞 高光 →
+bounds:574,972,19,13
+offsets:7,7,33,27
+惊喜 嘴
+bounds:2,1006,25,16
+offsets:7,7,39,31
+惊喜 星星眼 ←
+bounds:857,237,57,67
+offsets:7,7,68,81
+惊喜 星星眼 →
+bounds:2,351,61,69
+offsets:4,6,68,81
+惊喜 眼 ←
+bounds:477,154,83,106
+offsets:6,6,94,118
+惊喜 眼 →
+bounds:745,634,81,104
+offsets:8,7,96,118
+rotate:90
+惊喜 腮红 ←
+bounds:590,961,65,33
+offsets:4,5,72,44
+惊喜 腮红 →
+bounds:606,520,61,30
+offsets:8,10,73,45
+惊喜 高光 ←
+bounds:999,1005,18,17
+offsets:6,6,31,30
+惊喜 高光 →
+bounds:27,1006,17,16
+offsets:7,7,31,30
+狐耳上 ←
+bounds:710,505,311,225
+offsets:5,20,323,249
+狐耳上 →
+bounds:399,551,336,221
+offsets:3,5,343,232
+rotate:180
+狐耳下 ←
+bounds:18,686,312,273
+offsets:6,6,324,283
+rotate:180
+狐耳下 ← 拷贝
+bounds:555,342,327,299
+offsets:5,2,344,303
+狐耳下 →
+bounds:270,720,339,240
+offsets:4,5,347,252
+狐耳下 → 拷贝
+bounds:2,224,357,267
+offsets:8,2,367,272
+rotate:180
+狐耳绒毛 ←
+bounds:548,224,127,122
+offsets:6,8,144,168
+狐耳绒毛 ← 拷贝
+bounds:669,54,131,137
+offsets:7,6,158,155
+rotate:270
+狐耳绒毛 →
+bounds:150,268,141,133
+offsets:28,7,186,147
+狐耳绒毛 → 拷贝
+bounds:880,73,120,142
+offsets:49,5,176,166
+rotate:90
+留海 ←
+bounds:210,436,193,193
+offsets:5,6,203,203
+rotate:180
+留海 →
+bounds:890,290,131,159
+offsets:7,7,145,173
+红痣
+bounds:44,1012,10,10
+offsets:6,6,23,23
+纹路
+bounds:349,46,48,142
+offsets:7,7,62,156
+rotate:90
+耳环 ←
+bounds:525,48,65,130
+offsets:6,9,76,144
+rotate:90
+耳环 ← 拷贝
+bounds:391,457,61,82
+offsets:7,6,97,165
+耳环 →
+bounds:957,731,65,131
+offsets:5,7,75,143
+耳环 → 拷贝
+bounds:2,483,73,133
+offsets:16,7,95,163
+rotate:90
+花 ←
+bounds:406,82,103,99
+offsets:0,4,106,105
+花 →
+bounds:285,74,97,98
+offsets:5,1,106,103
+花花 →
+bounds:363,371,59,69
+offsets:4,5,67,79
+鬓发 ←
+bounds:663,297,100,228
+offsets:6,6,113,241
+rotate:90
+鬓发 →
+bounds:341,273,102,197
+offsets:4,6,117,207
+rotate:90
+鬓发 → 拷贝
+bounds:4,898,119,58
+offsets:6,7,133,226
+鬓发独毛 ←
+bounds:636,984,38,188
+offsets:8,13,56,211
+rotate:90

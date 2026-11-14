@@ -1,0 +1,23 @@
+Pasture_Echo37.webp
+size:1360,624
+filter:Linear,Linear
+右脚
+bounds:1149,12,169,208
+rotate:90
+左脚
+bounds:1149,183,174,173
+rotate:90
+翅膀
+bounds:2,2,495,268
+offsets:1,0,496,268
+触角
+bounds:499,56,249,214
+身体1
+bounds:791,71,286,356
+offsets:525,229,811,585
+rotate:90
+身体2
+bounds:2,272,787,348
+offsets:0,0,811,585
+阴影 拷贝 8
+bounds:791,359,533,261

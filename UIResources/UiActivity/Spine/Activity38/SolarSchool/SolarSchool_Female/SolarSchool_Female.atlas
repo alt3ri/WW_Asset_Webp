@@ -1,0 +1,77 @@
+SolarSchool_Female.webp
+	size: 4096, 4096
+	filter: Linear, Linear
+	scale: 0.6
+MOU_喜悦
+	bounds: 2, 3719, 77, 43
+	offsets: 12, 10, 101, 64
+MOU_微笑
+	bounds: 2, 3757, 78, 42
+	offsets: 11, 11, 101, 64
+MOU_思考&闭眼叹气&皱眉不爽
+	bounds: 2, 3679, 78, 42
+	offsets: 12, 11, 101, 64
+eye_下眼睑
+	bounds: 169, 3709, 262, 90
+	offsets: 10, 16, 279, 116
+eye_眉毛
+	bounds: 2, 3270, 269, 47
+	offsets: 13, 11, 295, 69
+eye_眼影
+	bounds: 2, 3279, 257, 54
+	offsets: 10, 11, 277, 76
+eye_眼珠
+	bounds: 413, 3721, 189, 78
+	offsets: 11, 10, 212, 98
+eye_眼白
+	bounds: 2, 3418, 225, 71
+	offsets: 10, 10, 245, 91
+eye_眼皮线
+	bounds: 2, 3464, 199, 43
+	offsets: 11, 11, 221, 64
+eye_睫毛
+	bounds: 366, 3667, 254, 55
+	offsets: 11, 10, 275, 75
+eye_睫毛尖_01
+	bounds: 66, 3786, 25, 13
+	offsets: 10, 10, 46, 33
+eye_睫毛尖_02
+	bounds: 73, 3756, 24, 8
+	offsets: 11, 11, 46, 31
+eye_睫毛尖_03
+	bounds: 90, 3765, 19, 10
+	offsets: 13, 11, 44, 34
+eye_睫毛尖_04
+	bounds: 71, 3771, 22, 15
+	offsets: 11, 12, 45, 40
+eye_睫毛尖_05
+	bounds: 2, 3674, 19, 12
+	offsets: 11, 11, 41, 35
+eye_高亮
+	bounds: 64, 3721, 150, 36
+	offsets: 12, 11, 173, 58
+t头发
+	bounds: 863, 43, 605, 583
+	rotate: 90
+喜悦
+	bounds: 1156, 626, 322, 163
+	offsets: 4, 8, 335, 171
+女漂 阴影
+	bounds: 768, 2410, 681, 812
+	offsets: 0, 1575, 800, 2387
+	rotate: 180
+思考_手臂
+	bounds: 913, 1006, 520, 779
+	offsets: 5, 0, 529, 779
+正常手臂
+	bounds: 1058, 3087, 441, 712
+	offsets: 0, 0, 448, 715
+身体
+	bounds: 2, 2, 1190, 3797
+	offsets: 12, 0, 1218, 3797
+闭眼叹气
+	bounds: 2, 3291, 299, 151
+	offsets: 6, 3, 305, 154
+面部
+	bounds: 1135, 1670, 357, 549
+	offsets: 0, 0, 362, 549

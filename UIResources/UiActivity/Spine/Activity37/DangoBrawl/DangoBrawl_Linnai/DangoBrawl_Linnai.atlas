@@ -1,0 +1,193 @@
+DangoBrawl_Linnai.webp
+size:1024,1024
+filter:Linear,Linear
+scale:0.45
+OK 发
+bounds:455,396,144,252
+offsets:49,8,199,266
+rotate:90
+OK 发 拷贝
+bounds:486,534,169,275
+offsets:5,5,179,286
+rotate:90
+→
+bounds:2,138,117,117
+offsets:4,4,126,125
+→ 拷贝
+bounds:883,266,139,138
+offsets:2,5,146,147
+侧发 ←
+bounds:428,704,326,318
+offsets:5,10,337,332
+rotate:180
+侧发 ← 拷贝
+bounds:409,256,158,244
+offsets:4,5,165,254
+rotate:90
+侧发毛 →
+bounds:666,222,196,312
+offsets:11,11,213,338
+rotate:90
+侧后发 ←
+bounds:675,132,116,197
+offsets:16,7,138,211
+rotate:90
+侧后发 ← 拷贝
+bounds:345,145,133,213
+offsets:6,4,142,222
+rotate:90
+侧后发 →
+bounds:717,684,127,163
+offsets:7,7,142,177
+rotate:180
+侧后发 → 拷贝
+bounds:527,183,145,187
+offsets:4,3,153,195
+rotate:90
+侧麻花 →
+bounds:53,221,87,261
+offsets:21,5,113,274
+rotate:90
+侧麻花 → 拷贝
+bounds:286,112,93,115
+offsets:5,4,102,125
+rotate:90
+发卡
+bounds:690,877,74,57
+offsets:7,7,88,72
+发饰
+bounds:256,801,57,66
+offsets:7,7,70,78
+发饰 拷贝
+bounds:823,933,81,89
+offsets:5,5,92,99
+后脑壳
+bounds:241,526,496,263
+offsets:4,5,504,272
+rotate:270
+后脑壳 拷贝
+bounds:625,498,524,284
+offsets:2,4,526,289
+rotate:270
+呆毛
+bounds:2,507,67,135
+offsets:8,24,99,167
+呆毛阴影
+bounds:883,886,54,128
+offsets:7,8,68,143
+头
+bounds:2,629,393,253
+offsets:25,8,429,342
+rotate:90
+头 拷贝
+bounds:907,607,415,110
+offsets:5,3,426,119
+rotate:270
+头发阴影
+bounds:70,421,413,208
+offsets:0,4,413,212
+定发 2 →
+bounds:496,827,54,45
+offsets:6,7,68,60
+定发 →
+bounds:2,282,188,247
+offsets:7,7,202,261
+rotate:90
+开心 腮红 ←
+bounds:505,703,118,84
+offsets:28,57,249,203
+rotate:90
+开心 腮红 →
+bounds:538,113,122,96
+offsets:95,49,260,207
+开心 表情 嘴
+bounds:578,1000,46,22
+offsets:126,8,291,64
+开心 表情 眉 ←
+bounds:365,994,84,28
+offsets:7,7,99,42
+开心 表情 眉 →
+bounds:894,598,81,29
+offsets:7,8,95,44
+开心 表情 睫 ←
+bounds:132,597,101,35
+offsets:8,14,118,57
+开心 表情 睫 →
+bounds:706,844,102,37
+offsets:7,54,117,98
+待机 嘴
+bounds:54,1016,18,6
+得逞 嘴 1
+bounds:2,1009,55,13
+offsets:8,8,71,29
+得逞 嘴 2
+bounds:895,999,24,23
+offsets:13,8,44,38
+得逞 眼球
+bounds:235,393,81,87
+offsets:8,7,96,101
+得逞 表情
+bounds:2,472,101,45
+offsets:198,6,307,112
+得逞 表情 2
+bounds:905,564,117,45
+offsets:8,24,307,112
+得逞 表情 3
+bounds:736,984,66,38
+offsets:199,66,307,112
+得逞 表情 4
+bounds:64,587,74,41
+offsets:52,66,307,112
+得逞 高光
+bounds:226,1006,21,16
+offsets:7,7,35,31
+惊喜 嘴巴
+bounds:791,994,24,28
+offsets:8,7,45,43
+惊喜 星星眼 ←
+bounds:481,539,57,72
+offsets:8,7,72,86
+惊喜 星星眼 →
+bounds:262,734,59,71
+offsets:6,7,72,86
+惊喜 腮红 ←
+bounds:147,133,139,93
+offsets:34,33,449,195
+惊喜 腮红 →
+bounds:906,130,116,96
+offsets:208,26,372,202
+rotate:180
+流海 ←
+bounds:238,274,188,264
+offsets:6,7,198,277
+rotate:270
+流海 中
+bounds:709,394,149,312
+offsets:25,6,180,330
+rotate:270
+眼睛 ←
+bounds:818,70,86,112
+offsets:9,8,114,128
+rotate:270
+眼睛 →
+bounds:67,65,85,112
+offsets:77,8,169,127
+rotate:270
+耳环 ←
+bounds:143,390,51,103
+offsets:7,8,65,119
+耳环 ← 拷贝
+bounds:8,993,32,20
+offsets:23,4,86,90
+耳环 →
+bounds:763,576,55,111
+offsets:7,5,70,124
+耳环 → 拷贝
+bounds:240,637,82,86
+offsets:4,5,91,96
+高光
+bounds:404,975,21,19
+offsets:7,7,194,32
+高光 2
+bounds:805,980,18,19
+offsets:168,6,194,32

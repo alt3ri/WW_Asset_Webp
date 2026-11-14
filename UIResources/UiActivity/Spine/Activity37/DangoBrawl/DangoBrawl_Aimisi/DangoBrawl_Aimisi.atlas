@@ -1,0 +1,151 @@
+DangoBrawl_Aimisi.webp
+size:1024,1024
+filter:Linear,Linear
+scale:0.45
+xx
+bounds:817,596,126,83
+offsets:7,10,140,101
+→
+bounds:896,305,115,113
+offsets:5,6,126,125
+→ 拷贝
+bounds:56,83,138,139
+offsets:4,4,146,147
+侧发 ←
+bounds:192,63,110,194
+offsets:7,6,125,207
+rotate:180
+侧发 ← 拷贝
+bounds:886,417,136,221
+offsets:6,1,147,229
+侧发 →
+bounds:2,301,109,200
+offsets:8,7,123,214
+侧发 → 拷贝
+bounds:757,22,134,225
+offsets:6,6,145,236
+rotate:90
+光环
+bounds:827,629,195,350
+offsets:5,4,591,359
+rotate:180
+光环 2
+bounds:2,188,271,355
+offsets:320,3,591,359
+前发
+bounds:336,632,587,352
+offsets:0,0,588,352
+rotate:180
+前发 拷贝
+bounds:2,543,102,226
+offsets:5,12,609,292
+发夹
+bounds:2,55,66,126
+offsets:8,9,81,143
+发夹阴影
+bounds:962,861,50,127
+offsets:8,5,66,138
+后发
+bounds:768,172,253,125
+offsets:7,6,267,139
+后发 拷贝
+bounds:288,325,612,370
+rotate:180
+后脑壳
+bounds:408,293,443,200
+offsets:7,8,458,214
+rotate:180
+呆毛
+bounds:686,153,59,139
+offsets:6,5,72,151
+头
+bounds:79,531,414,256
+offsets:8,6,428,270
+rotate:270
+头 拷贝
+bounds:2,946,417,76
+offsets:4,6,425,88
+开心 2
+bounds:342,897,64,48
+offsets:9,14,350,155
+开心 3
+bounds:2,540,63,47
+offsets:280,13,350,155
+开心 4
+bounds:572,976,83,19
+offsets:51,129,350,155
+开心 5
+bounds:589,499,115,38
+offsets:20,66,350,155
+开心 6
+bounds:206,494,115,38
+offsets:219,68,350,155
+开心 7
+bounds:441,968,45,21
+offsets:154,12,350,155
+开心 8
+bounds:444,1005,82,17
+offsets:219,131,350,155
+待机 嘴
+bounds:22,1012,25,10
+得逞 星星瞳孔
+bounds:260,319,60,50
+offsets:8,7,77,64
+得逞 眼睛
+bounds:494,686,95,69
+offsets:8,8,110,84
+得逞 腮红
+bounds:702,978,303,44
+offsets:8,5,318,57
+得逞 表情
+bounds:608,62,325,144
+offsets:3,11,331,155
+得逞 表情 2
+bounds:993,999,23,23
+offsets:181,15,331,155
+得逞 高光
+bounds:2,1009,19,13
+offsets:8,8,35,28
+惊喜
+bounds:392,981,312,41
+offsets:6,7,324,53
+rotate:180
+星星瞳孔
+bounds:57,297,53,54
+offsets:6,8,225,70
+星星瞳孔 2
+bounds:336,625,52,55
+offsets:166,8,225,70
+独毛
+bounds:643,684,104,59
+offsets:8,7,120,73
+独毛 阴影
+bounds:534,40,109,60
+offsets:7,7,124,73
+眼睛 正常
+bounds:520,181,84,111
+offsets:7,7,260,125
+眼睛 正常 2
+bounds:419,37,85,111
+offsets:168,7,260,125
+阴影 拷贝
+bounds:276,63,417,273
+offsets:0,0,418,274
+高光
+bounds:776,973,181,24
+offsets:8,6,196,36
+鬓发 ←
+bounds:12,796,83,148
+offsets:17,7,107,169
+鬓发 ← 拷贝
+bounds:280,18,106,105
+offsets:7,3,119,113
+rotate:180
+鬓发 →
+bounds:69,19,80,123
+offsets:8,7,115,154
+rotate:90
+鬓发 → 拷贝
+bounds:353,209,107,115
+offsets:5,4,117,126
+rotate:180

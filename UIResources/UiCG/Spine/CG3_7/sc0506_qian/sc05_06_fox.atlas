@@ -1,0 +1,263 @@
+sc05_06_fox.webp
+size:4096,4096
+filter:Linear,Linear
+scale:0.52
+0506_tx_a_1
+bounds:1728,677,414,414
+0506_tx_a_2
+bounds:2,3842,247,247
+0506_tx_a_3
+bounds:315,52,227,227
+0506_tx_b_1
+bounds:3206,2494,655,655
+0506_tx_b_2
+bounds:674,915,449,448
+0506_tx_b_3
+bounds:724,1365,504,503
+0506_tx_b_4
+bounds:1499,3129,181,180
+0506_tx_c_1
+bounds:1390,1353,541,541
+0506_tx_c_2
+bounds:3288,1247,463,463
+0506_tx_c_3
+bounds:3863,3094,213,213
+0506_tx_c_4
+bounds:2099,3014,158,158
+0506_tx_d_1
+bounds:2682,1807,723,685
+0506_tx_d_2
+bounds:486,543,407,370
+0506_tx_d_3
+bounds:2,1375,720,532
+0506_tx_d_4
+bounds:2048,1367,623,632
+rotate:90
+BG Guang1
+bounds:3407,1712,780,523
+rotate:90
+Fox E Guang
+bounds:2,127,311,265
+offsets:0,2,311,270
+Fox Ear1-1
+bounds:3233,3151,770,635
+rotate:90
+Fox Ear1-1 Guang
+bounds:2694,658,644,613
+rotate:180
+Fox Ear1-2
+bounds:334,203,406,502
+rotate:90
+Fox Ear1-3
+bounds:1694,2676,593,529
+rotate:270
+Fox Ear2
+bounds:3139,684,776,669
+rotate:180
+Fox Ear2 Guang
+bounds:3650,3309,492,422
+rotate:270
+Fox HouTui Leg up Guang
+bounds:2278,3390,574,699
+offsets:28,0,602,765
+Fox HouTui MaoFa
+bounds:2456,1031,348,377
+rotate:90
+Fox JieMao
+bounds:295,3989,36,30
+offsets:0,0,37,31
+Fox LeiHen
+bounds:251,3883,70,21
+offsets:1,1,72,23
+Fox MaoFa HouTui2 MaoFa1
+bounds:3831,3690,248,399
+offsets:0,0,257,399
+Fox MaoFa QianTui2 Leg down
+bounds:1505,104,209,348
+Fox MaoFa QianTui2 Leg down Guang
+bounds:2823,2494,348,395
+offsets:0,1,350,396
+Fox MaoFa QianTui2 Leg up Guang
+bounds:895,505,439,423
+Fox MaoFa QianTui2 MaoFa1
+bounds:1230,1673,143,219
+Fox MaoFa QianTui2 MaoFa1 Guang
+bounds:2,291,368,497
+offsets:0,6,382,503
+rotate:270
+Fox MaoFa Zu1-2
+bounds:157,1909,325,120
+Fox MaoFa Zu1-2 Guang
+bounds:2,2677,535,247
+offsets:0,8,535,255
+rotate:90
+Fox MaoFa Zu1-4
+bounds:2562,1034,483,200
+Fox MaoFa Zu1-4 Guang
+bounds:1811,1998,786,445
+rotate:270
+Fox MaoFa1
+bounds:1284,725,265,110
+Fox MaoFa2
+bounds:316,2377,352,176
+Fox MaoFa3
+bounds:2,3729,178,111
+offsets:0,0,186,111
+Fox MaoFa4
+bounds:1510,2547,277,204
+Fox MaoFa5
+bounds:2451,2059,340,228
+offsets:5,0,345,356
+rotate:90
+Fox MeiMao1
+bounds:623,3968,299,121
+Fox QianTui Leg down
+bounds:2333,3217,177,230
+Fox QianTui Leg down Guang
+bounds:2,636,483,423
+Fox QianTui Leg up
+bounds:1195,1326,138,250
+Fox QianTui Mao1
+bounds:408,930,200,129
+Fox QianTui Mao2
+bounds:1230,1556,153,218
+Fox QianTui Mao4
+bounds:2076,499,560,455
+offsets:0,98,574,553
+Fox SPEC
+bounds:12,3830,12,10
+offsets:0,1,12,11
+Fox ShangE
+bounds:926,3030,571,300
+Fox TongRen
+bounds:294,3956,30,31
+offsets:2,1,32,34
+Fox WeiBa Mao1
+bounds:639,207,725,334
+Fox WeiBa Mao1 Guang
+bounds:2251,2042,2047,1014
+offsets:0,46,2047,1060
+rotate:270
+Fox WeiBa Mao2
+bounds:2730,355,785,356
+Fox WeiBa Mao3
+bounds:2103,208,470,302
+Fox WeiBa Mao4
+bounds:1474,956,1134,409
+Fox WeiBa Mao4 Guang
+bounds:2,2484,2261,897
+rotate:180
+Fox WeiBa Mao5
+bounds:3685,979,738,394
+rotate:90
+Fox WeiBa Star1 yellow - 1
+bounds:923,3991,213,98
+Fox WeiBa Star1 yellow - 3
+bounds:3863,2724,228,226
+offsets:0,0,229,304
+rotate:90
+Fox WeiBa Star1 yellow - 4
+bounds:3863,2872,219,220
+offsets:0,0,220,220
+Fox WeiBa Star1 yellow - 5
+bounds:3265,3423,212,199
+offsets:1,0,213,200
+rotate:90
+Fox WeiBa Star1 yellow -2
+bounds:2516,815,230,231
+offsets:1,1,231,258
+Fox WeiBa Star2 Black - 1
+bounds:626,32,212,205
+offsets:0,0,213,205
+rotate:180
+Fox WeiBa Star2 Black - 2
+bounds:1618,256,227,222
+offsets:1,1,228,224
+Fox WeiBa Star2 Black - 3
+bounds:1102,294,234,231
+offsets:1,0,235,232
+Fox WeiBa Star2 Black - 4
+bounds:1269,59,239,236
+offsets:0,0,239,237
+Fox WeiBa Star2 Black - 5
+bounds:251,3981,173,65
+offsets:0,3,176,69
+Fox XiaE
+bounds:774,54,436,222
+offsets:1,0,437,222
+Fox XiongMao1
+bounds:3265,3151,337,300
+Fox XiongMao2
+bounds:3251,3776,645,313
+Fox XiongMao2 Guang_2
+bounds:2737,3824,281,265
+offsets:2,0,283,265
+Fox XiongMao3
+bounds:1125,822,601,524
+Fox XiongMao4
+bounds:1325,360,367,492
+rotate:90
+Fox XiongMao5
+bounds:2682,1237,606,568
+offsets:507,338,1113,906
+Fox body Guang
+bounds:359,1869,1770,678
+offsets:0,187,1822,928
+Fox body_2
+bounds:2,3162,2330,927
+offsets:0,0,2330,952
+Fox down lid WenLi
+bounds:2,3699,135,30
+offsets:0,1,135,33
+Fox down lid WenLi2
+bounds:251,4039,224,50
+offsets:0,1,225,63
+Fox down lid l1
+bounds:251,3869,69,14
+offsets:2,2,73,18
+Fox down lid l2
+bounds:251,3899,82,33
+offsets:0,2,83,36
+Fox down lid l3
+bounds:269,3899,60,13
+offsets:0,1,60,16
+Fox eye ball
+bounds:201,3761,72,50
+offsets:0,0,75,51
+Fox head Guang
+bounds:3560,504,414,416
+offsets:0,3,521,419
+Fox mouth
+bounds:583,3231,247,100
+offsets:0,1,247,101
+Fox nose
+bounds:248,3817,56,45
+offsets:1,0,57,46
+Fox up JieMao1
+bounds:2,3403,154,59
+offsets:2,1,157,60
+Fox up JieMao2
+bounds:304,3945,38,29
+offsets:1,3,41,33
+Fox up lid
+bounds:480,4010,141,79
+offsets:25,2,166,82
+Fox white eye
+bounds:102,3788,150,52
+offsets:0,1,150,53
+erhuan1
+bounds:251,3932,57,41
+erhuan2
+bounds:251,3975,45,33
+offsets:2,3,50,38
+heise
+bounds:251,4063,26,26
+images/mutou1
+bounds:1818,285,332,326
+offsets:198,37,728,424
+rotate:270
+zhuanc1
+bounds:2,1061,671,312
+zhuangchang2
+bounds:2,1975,671,312
+rotate:90

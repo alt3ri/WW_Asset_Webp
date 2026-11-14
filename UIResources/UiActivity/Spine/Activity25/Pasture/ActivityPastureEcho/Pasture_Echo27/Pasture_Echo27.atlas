@@ -1,0 +1,24 @@
+Pasture_Echo27.webp
+size:668,1084
+filter:Linear,Linear
+刘海
+bounds:231,6,329,355
+头发
+bounds:2,617,464,471
+rotate:90
+头发下摆
+bounds:2,2,359,227
+rotate:90
+手
+bounds:384,412,270,129
+星星
+bounds:475,543,150,157
+offsets:176,81,329,355
+rotate:90
+身子
+bounds:2,363,252,380
+offsets:0,0,253,380
+rotate:90
+阴影 拷贝 12
+bounds:475,695,386,189
+rotate:90

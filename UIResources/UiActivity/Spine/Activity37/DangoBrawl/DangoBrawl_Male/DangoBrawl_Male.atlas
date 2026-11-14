@@ -1,0 +1,138 @@
+DangoBrawl_Male.webp
+size:1024,1024
+filter:Linear,Linear
+scale:0.52
+YY ←
+bounds:586,164,160,254
+offsets:0,8,167,268
+YY ↑
+bounds:686,94,310,158
+offsets:5,6,321,171
+rotate:90
+YY →
+bounds:912,659,110,229
+offsets:7,8,135,245
+→
+bounds:884,888,136,132
+offsets:3,6,146,144
+→ 拷贝
+bounds:225,649,153,154
+offsets:8,9,169,170
+发
+bounds:2,323,697,452
+offsets:0,12,697,464
+rotate:90
+发 拷贝
+bounds:299,2,722,473
+rotate:180
+后发 ←
+bounds:737,897,72,71
+offsets:7,8,86,88
+后发 ← 拷贝
+bounds:438,467,95,100
+offsets:8,6,111,113
+后发 →
+bounds:814,464,88,79
+offsets:8,8,106,96
+后发 → 拷贝
+bounds:231,544,115,104
+offsets:8,9,131,121
+呆毛
+bounds:926,367,96,87
+offsets:8,8,110,104
+呆毛 拷贝
+bounds:351,957,119,63
+offsets:9,58,135,129
+头
+bounds:428,546,474,322
+offsets:8,7,490,336
+rotate:90
+头 拷贝
+bounds:730,525,495,169
+offsets:9,6,513,184
+rotate:90
+开心 嘴
+bounds:916,767,37,33
+offsets:9,8,54,52
+开心 眉 ←
+bounds:103,1003,89,17
+offsets:9,9,108,35
+rotate:180
+开心 眉 →
+bounds:2,1002,104,18
+offsets:8,17,120,44
+开心 眼 ←
+bounds:488,238,131,47
+offsets:10,8,150,66
+开心 眼 →
+bounds:2,356,137,49
+offsets:7,8,152,67
+待机 嘴
+bounds:320,1012,28,8
+offsets:1,0,29,8
+得逞 嘴
+bounds:473,1006,36,14
+offsets:13,9,57,34
+得逞 眉 ←
+bounds:723,573,95,46
+offsets:8,8,111,61
+得逞 眉 →
+bounds:522,503,100,44
+offsets:8,11,116,62
+得逞 眼 ←
+bounds:8,927,91,79
+offsets:8,8,107,95
+得逞 眼 →
+bounds:642,476,91,76
+offsets:10,9,110,93
+得逞 睫 ←
+bounds:500,176,122,48
+offsets:9,8,139,65
+得逞 睫 →
+bounds:470,206,124,51
+offsets:11,20,145,79
+得逞 腮红 ←
+bounds:162,614,76,43
+offsets:9,3,94,55
+得逞 腮红 →
+bounds:169,647,88,48
+offsets:8,9,105,67
+得逞 高光 ←
+bounds:444,994,28,26
+offsets:9,8,46,43
+得逞 高光 →
+bounds:258,997,25,23
+offsets:9,8,43,40
+惊喜 惊喜 嘴
+bounds:894,831,66,42
+offsets:9,11,86,62
+惊喜 星星眼 ←
+bounds:359,737,60,85
+offsets:8,9,76,102
+惊喜 星星眼 →
+bounds:749,807,63,90
+offsets:28,7,96,121
+惊喜 眼 ←
+bounds:485,268,99,128
+offsets:9,9,118,145
+惊喜 眼 →
+bounds:347,557,96,133
+offsets:11,7,113,151
+惊喜 腮红 ←
+bounds:194,986,65,34
+offsets:9,9,82,51
+惊喜 腮红 →
+bounds:898,795,71,35
+offsets:8,7,87,50
+惊喜 高光 ←
+bounds:2,888,42,39
+offsets:8,7,58,54
+惊喜 高光 →
+bounds:777,776,40,38
+offsets:7,8,56,54
+流海
+bounds:2,19,286,346
+offsets:7,7,298,359
+独流海
+bounds:902,446,120,243
+offsets:10,8,139,261

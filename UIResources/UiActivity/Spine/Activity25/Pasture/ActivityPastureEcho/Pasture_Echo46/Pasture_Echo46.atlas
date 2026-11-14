@@ -1,0 +1,16 @@
+Pasture_Echo46.webp
+size:1032,420
+filter:Linear,Linear
+主体
+bounds:2,2,413,477
+rotate:90
+前腿
+bounds:671,84,331,189
+rotate:90
+后腿
+bounds:862,51,364,168
+rotate:90
+阴影
+bounds:481,28,387,188
+offsets:1,1,389,190
+rotate:90

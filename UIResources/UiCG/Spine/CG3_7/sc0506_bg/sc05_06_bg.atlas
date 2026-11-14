@@ -1,0 +1,811 @@
+sc05_06_bg.webp
+size:4096,4096
+filter:Linear,Linear
+scale:0.46
+0506_tx_a_1
+bounds:2536,2439,367,366
+0506_tx_b_1
+bounds:386,1794,579,579
+0506_tx_b_3
+bounds:3556,42,446,445
+0506_tx_c_1
+bounds:3075,238,479,478
+0506_tx_c_2
+bounds:1608,2863,410,410
+0506_tx_c_3
+bounds:3431,2918,189,188
+0506_tx_c_4
+bounds:989,2439,139,140
+0506_tx_d_1
+bounds:967,1767,639,606
+0506_tx_d_3
+bounds:2,718,637,471
+rotate:90
+0506_tx_d_4
+bounds:3152,718,551,559
+rotate:90
+06BG1
+bounds:1145,2383,986,460
+rotate:90
+06BG2
+bounds:3476,3108,986,460
+rotate:90
+06ChengShi1 JianZhu4
+bounds:2018,1290,126,139
+06ChengShi1_lx_1
+bounds:3011,4058,35,36
+offsets:2,2,39,40
+06ChengShi1_lx_10
+bounds:3246,4061,33,33
+offsets:2,2,37,37
+06ChengShi1_lx_11
+bounds:4063,3606,29,29
+offsets:2,2,33,33
+06ChengShi1_lx_12
+bounds:1979,3979,18,18
+offsets:2,2,22,22
+06ChengShi1_lx_13
+bounds:4063,3637,30,30
+offsets:2,2,34,34
+06ChengShi1_lx_14
+bounds:2744,4085,9,9
+offsets:2,2,13,13
+06ChengShi1_lx_15
+bounds:3994,3117,54,55
+offsets:2,2,58,59
+06ChengShi1_lx_16
+bounds:421,3392,49,49
+offsets:2,2,53,53
+06ChengShi1_lx_17
+bounds:1991,3284,59,59
+offsets:2,2,63,63
+06ChengShi1_lx_18
+bounds:265,3854,17,17
+offsets:2,2,21,21
+06ChengShi1_lx_19
+bounds:3115,3404,41,42
+offsets:2,2,45,46
+06ChengShi1_lx_2
+bounds:3158,3404,59,59
+offsets:2,2,63,63
+06ChengShi1_lx_20
+bounds:3098,4054,39,40
+offsets:2,2,43,44
+Qian JianZhu_lx21
+bounds:3098,4054,39,40
+offsets:2,2,43,44
+06ChengShi1_lx_21
+bounds:1815,4063,31,31
+offsets:2,2,35,35
+Qian JianZhu_lx22
+bounds:1815,4063,31,31
+offsets:2,2,35,35
+06ChengShi1_lx_22
+bounds:1608,3284,56,55
+offsets:2,2,60,59
+06ChengShi1_lx_23
+bounds:4063,3516,28,28
+offsets:2,2,32,32
+06ChengShi1_lx_3
+bounds:135,3806,24,24
+offsets:2,2,28,28
+06ChengShi1_lx_4
+bounds:3385,3539,28,28
+offsets:2,2,32,32
+06ChengShi1_lx_5
+bounds:1732,4075,20,19
+offsets:2,2,24,23
+06ChengShi1_lx_6
+bounds:818,4014,81,80
+offsets:2,2,85,84
+06ChengShi1_lx_7
+bounds:3175,4059,34,35
+offsets:2,2,38,39
+06ChengShi1_lx_8
+bounds:346,4024,22,23
+offsets:2,2,26,27
+06ChengShi1_lx_9
+bounds:2130,4082,12,12
+offsets:2,2,16,16
+06DongFangCheng AnJiao
+bounds:1279,739,322,132
+06DongFangCheng Cloud2
+bounds:2393,2018,277,105
+rotate:90
+06HuLi  MaoFa1
+bounds:2146,1280,295,312
+rotate:90
+06HuLi  body MaoFa3
+bounds:272,541,175,197
+rotate:90
+06HuLi  body WeiBa2
+bounds:2,1357,519,925
+offsets:27,0,546,925
+rotate:90
+06HuLi  body Zhua311
+bounds:1754,61,690,203
+06HuLi  body Zhua42
+bounds:2518,299,454,128
+offsets:0,16,454,144
+06HuLi  body c
+bounds:1999,3399,1474,695
+06HuLi body PiaoDai2
+bounds:1608,1905,603,169
+06HuLi body Zhua31
+bounds:2,66,650,466
+rotate:90
+06HuLi juojuo1
+bounds:3217,3416,93,71
+06HuLi juojuo2
+bounds:2,3779,100,78
+06HuLi juojuo3
+bounds:521,4013,73,81
+06HuXu1
+bounds:3419,3919,21,62
+06HuXu2
+bounds:253,4038,8,56
+offsets:0,1,8,57
+06HuXu3
+bounds:230,3752,23,36
+06HuXu4
+bounds:3458,4074,13,20
+06HuXu5
+bounds:397,4044,66,13
+06HuXu6
+bounds:1233,4079,38,15
+06HuXu7
+bounds:1038,4053,81,12
+06HuXu8
+bounds:1880,3992,23,21
+offsets:1,0,29,23
+06HuaWen Yellow
+bounds:2811,16,128,129
+06L ErShi
+bounds:272,3956,39,56
+06L close eye
+bounds:1013,4066,132,28
+06L eye ball
+bounds:451,4048,61,46
+06L up jiemao1
+bounds:324,3470,49,25
+06L up jiemao2
+bounds:563,4083,41,11
+offsets:0,1,41,12
+06L up jiemao3
+bounds:1129,4077,103,17
+06L up lid
+bounds:261,3411,158,89
+06L white eye
+bounds:346,4049,104,45
+06Ldown jiemao1
+bounds:2853,4079,23,15
+offsets:0,0,23,16
+06Ldown jiemao2
+bounds:2857,4063,115,31
+06Ldown lid
+bounds:901,4040,135,54
+offsets:0,0,135,55
+06LiZi1
+bounds:1608,2345,901,460
+06LiZi2
+bounds:2,2835,1142,552
+06Mao1
+bounds:4063,3669,21,97
+06Mao10
+bounds:2275,3416,99,29
+06Mao2
+bounds:4081,3695,13,65
+06Mao3
+bounds:4057,3282,33,97
+06Mao4
+bounds:278,3873,19,82
+06Mao5
+bounds:4076,3427,14,87
+06Mao6
+bounds:2721,4070,97,24
+06Mao7
+bounds:777,3997,65,15
+06Mao8
+bounds:901,4029,82,23
+06Mao9
+bounds:2629,4081,87,13
+06R ErShi
+bounds:1756,4057,57,37
+06R close eye
+bounds:3439,3868,35,116
+06R eye ball
+bounds:3717,3047,44,59
+06R white eye
+bounds:2056,3517,42,101
+offsets:1,0,43,101
+06Rdown jiemao1
+bounds:2077,4059,13,23
+offsets:0,0,14,24
+06Rdown jiemao2
+bounds:3431,3196,37,115
+06Rdown lid
+bounds:3622,2954,56,152
+06Rup jiemao1
+bounds:2045,3615,29,54
+06Rup jiemao2
+bounds:592,4002,13,31
+offsets:0,0,14,31
+06Rup jiemao3
+bounds:2,3863,23,102
+06Rup lid
+bounds:2,74,94,154
+06ShenGong JianZhu4
+bounds:2430,12,144,99
+rotate:90
+06ShenGong_lx_1
+bounds:26,3872,17,17
+offsets:2,2,21,21
+06ShenGong_lx_2
+bounds:3449,3596,25,26
+offsets:2,2,29,30
+06ShenGong_lx_3
+bounds:3456,3981,18,18
+offsets:2,2,22,22
+06ShenGong_lx_4
+bounds:1717,4081,13,13
+offsets:2,2,17,17
+06WeiBa LiZi
+bounds:3713,489,780,376
+offsets:2,2,784,380
+rotate:90
+06WeiBa3
+bounds:2546,429,827,527
+rotate:90
+06XuanFangCheng Door ZhiZhen
+bounds:3431,3292,35,109
+06XuanFangCheng Door ZhiZhen ball
+bounds:3268,3468,43,44
+06XuanFangCheng Door ZhuangShi1
+bounds:4014,1317,68,211
+offsets:0,0,69,211
+06XuanFangCheng DoorHuan
+bounds:1056,732,1494,524
+06XuanFangChengHuan2
+bounds:2478,584,161,121
+offsets:2,2,165,125
+06YanWu
+bounds:928,1511,618,254
+06_ts
+bounds:3466,3329,4,72
+06_ts_b
+bounds:3467,3794,4,72
+06_ts_b2
+bounds:4090,4044,3,50
+06_ts_g
+bounds:178,3817,37,16
+06_ts_gg
+bounds:2091,4078,37,16
+06_ts_l
+bounds:1993,3905,4,72
+06hair1
+bounds:2,1806,280,128
+06hair4
+bounds:322,1577,182,215
+06hair6
+bounds:2531,7,278,184
+06hair7
+bounds:559,19,254,291
+rotate:90
+06hair8
+bounds:2655,717,163,194
+06nose
+bounds:2,3757,35,34
+06zuinz_1
+bounds:261,3475,62,57
+06zuinz_2
+bounds:2940,4080,14,14
+offsets:0,2,15,16
+06zuinz_3
+bounds:3357,3982,112,112
+2Fox HouTui MaoFa
+bounds:2909,2181,871,944
+rotate:90
+2Fox HouTui Zhua Guang
+bounds:2068,547,156,158
+2Fox MaoFa HouTui2 MaoFa1
+bounds:1608,1428,626,1000
+offsets:0,0,642,1000
+rotate:90
+2Fox MaoFa HouTui2 Zhua
+bounds:1849,3998,240,96
+offsets:0,5,243,101
+2Fox MaoFa HouTui2 Zhua Guang
+bounds:1308,1181,168,83
+2Fox MaoFa QianTui2 Leg down Guang
+bounds:3634,2462,219,249
+2Fox MaoFa QianTui2 Leg up Guang
+bounds:2,3832,275,262
+2Fox MaoFa QianTui2 Zhua
+bounds:598,3980,218,114
+2Fox MaoFa QianTui2 Zhua Guang
+bounds:927,1430,184,97
+2Fox MaoFa3
+bounds:2061,3415,164,98
+2Fox QianTui Mao3 Guang
+bounds:1736,810,193,215
+2Fox QianTui Zhua
+bounds:1537,4,218,114
+2Fox QianTui Zhua Guang
+bounds:2552,1170,167,86
+2Fox WeiBa Mao1
+bounds:2149,146,791,559
+offsets:486,27,1277,586
+2Fox WeiBa Mao2
+bounds:1573,199,778,614
+offsets:606,12,1384,626
+2Fox WeiBa Mao4
+bounds:2479,1722,911,721
+offsets:1089,0,2000,721
+2Fox WeiBa Mao4 Guang
+bounds:1123,120,639,545
+offsets:791,18,1430,563
+2Fox XiongMao2 Guang_2
+bounds:3386,1809,708,656
+2Fox XiongMao3
+bounds:764,6,531,463
+2Fox body Guang
+bounds:1444,1454,446,181
+offsets:0,40,451,230
+2Fox body_2
+bounds:2,3274,2061,820
+offsets:0,0,2061,842
+BG Guang1
+bounds:2460,1258,690,462
+BG Mountain Zu1-1
+bounds:2178,1923,92,151
+BG Mountain Zu1-2
+bounds:475,1246,109,180
+rotate:90
+BG Mountain Zu1-3
+bounds:1939,3921,52,78
+BG Mountain Zu1-4
+bounds:3770,2985,68,121
+BG Mountain Zu1-5
+bounds:4004,112,82,117
+BG Mountain Zu2-11
+bounds:4006,2331,80,228
+BG Mountain Zu2-12
+bounds:1297,12,106,238
+offsets:2,2,110,242
+rotate:90
+BG Mountain Zu2-13
+bounds:4004,231,84,256
+offsets:2,2,88,260
+BG Mountain Zu2-15
+bounds:3938,3174,117,286
+offsets:2,2,121,290
+BG Mountain Zu2-16
+bounds:3938,3462,123,304
+offsets:2,2,127,308
+BG Mountain Zu2-17
+bounds:3855,2561,232,545
+offsets:2,3,236,550
+BG Mountain Zu2-18
+bounds:3556,509,143,207
+offsets:2,2,147,211
+BG Mountain Zu2-2
+bounds:2942,65,171,582
+offsets:2,2,175,586
+rotate:90
+BG Mountain Zu2-3
+bounds:3938,3768,150,326
+offsets:3,2,155,330
+BG Mountain Zu2-4
+bounds:4022,1727,72,169
+offsets:3,2,77,173
+BG Mountain Zu2-6
+bounds:989,2581,121,252
+offsets:2,2,125,256
+BG c
+bounds:2,2373,986,460
+BG cloud LiZi1
+bounds:475,737,201,163
+BG cloud LiZi2
+bounds:2052,2807,1377,590
+BG cloud1
+bounds:1931,707,711,414
+offsets:2,2,715,418
+BG cloud12
+bounds:1608,2076,680,267
+BG cloud7
+bounds:2290,2008,194,335
+BG cloud9
+bounds:474,63,1115,667
+Qian JianZhu2
+bounds:3133,1839,376,264
+rotate:90
+Qian JianZhu3
+bounds:3155,1276,450,234
+rotate:90
+Qian JianZhu4
+bounds:1024,436,126,139
+Qian JianZhu_lx1
+bounds:3415,3531,59,59
+offsets:2,2,63,63
+Qian JianZhu_lx10
+bounds:3281,4058,16,16
+offsets:2,2,20,20
+Qian JianZhu_lx11
+bounds:2822,4065,29,29
+offsets:2,2,33,33
+Qian JianZhu_lx12
+bounds:3211,4061,33,33
+offsets:2,2,37,37
+Qian JianZhu_lx13
+bounds:1817,4043,18,18
+offsets:2,2,22,22
+Qian JianZhu_lx14
+bounds:103,3800,30,30
+offsets:2,2,34,34
+Qian JianZhu_lx15
+bounds:3938,3117,54,55
+offsets:2,2,58,59
+Qian JianZhu_lx16
+bounds:442,4085,9,9
+offsets:2,2,13,13
+Qian JianZhu_lx17
+bounds:2,4035,59,59
+offsets:2,2,63,63
+Qian JianZhu_lx18
+bounds:217,3790,49,49
+offsets:2,2,53,53
+Qian JianZhu_lx19
+bounds:502,4039,17,17
+offsets:2,2,21,21
+Qian JianZhu_lx2
+bounds:2974,4058,35,36
+offsets:2,2,39,40
+Qian JianZhu_lx20
+bounds:3055,4052,41,42
+offsets:2,2,45,46
+Qian JianZhu_lx23
+bounds:2217,3403,56,55
+offsets:2,2,60,59
+Qian JianZhu_lx24
+bounds:4063,3546,28,28
+offsets:2,2,32,32
+Qian JianZhu_lx3
+bounds:1910,3978,24,24
+offsets:2,2,28,28
+Qian JianZhu_lx4
+bounds:4063,3576,28,28
+offsets:2,2,32,32
+Qian JianZhu_lx5
+bounds:90,4075,20,19
+offsets:2,2,24,23
+Qian JianZhu_lx6
+bounds:263,4014,81,80
+offsets:2,2,85,84
+Qian JianZhu_lx7
+bounds:3139,4059,34,35
+offsets:2,2,38,39
+Qian JianZhu_lx8
+bounds:3346,4071,22,23
+offsets:2,2,26,27
+Qian JianZhu_lx9
+bounds:901,4082,12,12
+offsets:2,2,16,16
+ShenGong JianZhu4
+bounds:2974,283,144,99
+rotate:90
+ShenGong_lx1
+bounds:112,4081,13,13
+offsets:2,2,17,17
+ShenGong_lx2
+bounds:3281,4076,18,18
+offsets:2,2,22,22
+ShenGong_lx3
+bounds:63,4068,25,26
+offsets:2,2,29,30
+ShenGong_lx4
+bounds:63,4049,17,17
+offsets:2,2,21,21
+XuanFangCheng Door ZhiZhen ball
+bounds:3301,4050,43,44
+XuanFangCheng Door ZhiZhen1
+bounds:4057,3351,35,109
+XuanFangCheng Door ZhiZhen2
+bounds:505,903,1494,524
+XuanFangCheng Door ZhuangShi1
+bounds:4014,1514,68,211
+offsets:0,0,69,211
+XuanFangChengHuan2
+bounds:3313,3403,161,121
+offsets:2,2,165,125
+heikuang
+bounds:127,4092,5,2
+mqa_BG Tree1h
+bounds:2609,1729,134,126
+mqb_BG Mountain11
+bounds:2,3415,117,257
+offsets:2,2,121,261
+rotate:90
+mqb_BG Mountain13
+bounds:48,1936,336,437
+offsets:2,2,340,441
+mqb_BG Mountain4
+bounds:752,762,265,295
+offsets:2,2,269,299
+particle
+bounds:3391,1271,621,537
+
+sc05_06_bg_2.webp
+size:4096,4096
+filter:Linear,Linear
+scale:0.46
+0506_tx_a_2
+bounds:1134,3685,219,219
+0506_tx_a_3
+bounds:3102,3893,201,201
+0506_tx_b_2
+bounds:1520,1568,397,396
+0506_tx_b_4
+bounds:1051,3934,160,160
+0506_tx_d_2
+bounds:2,1963,360,327
+06ChengShi1 JianZhu1
+bounds:3324,3665,302,205
+06ChengShi1 JianZhu2
+bounds:1745,2987,376,264
+06ChengShi1 JianZhu3
+bounds:2,2567,450,234
+06DongFangCheng Cloud1
+bounds:2879,1590,1008,515
+06DongFangCheng Cloud3
+bounds:2,2977,808,280
+06DongFangCheng Huan - 1
+bounds:458,3447,524,925
+rotate:90
+06DongFangCheng Huan - 2
+bounds:2,2694,531,925
+rotate:90
+06DongFangCheng about Huan1
+bounds:2648,1262,1446,533
+06DongFangCheng about Huan2
+bounds:815,261,1563,835
+06HuLi  body MaoFa2
+bounds:1402,3901,193,178
+rotate:90
+06HuLi  body WeiBa1
+bounds:2753,1518,609,351
+06HuLi  body Zhua1_1
+bounds:2823,2457,636,235
+06HuLi  body Zhua1_2
+bounds:3526,914,568,510
+offsets:61,31,629,568
+06HuLi  body Zhua322
+bounds:161,2291,307,435
+offsets:0,1,317,456
+rotate:90
+06HuLi  body Zhua41
+bounds:2651,3268,357,226
+06HuLi  body Zhua43
+bounds:2535,3818,276,163
+rotate:90
+06HuLi body PiaoDai1
+bounds:613,3069,943,331
+06HuLi body Zhua32
+bounds:729,2942,710,160
+06HuLi juojuo4
+bounds:454,2327,646,361
+offsets:191,117,837,523
+06L Ear2
+bounds:227,3492,338,331
+06L Ear3
+bounds:2056,3634,277,288
+rotate:90
+06R Ear2
+bounds:1884,3101,355,438
+rotate:90
+06R Ear3
+bounds:1823,3430,271,382
+06ShenGong JianZhu1
+bounds:823,3284,346,180
+06ShenGong JianZhu2
+bounds:3554,3787,307,236
+rotate:90
+06ShenGong JianZhu3
+bounds:2573,2265,298,346
+rotate:90
+06ShenGong JianZhu5
+bounds:2024,3405,317,185
+06WeiBa Star
+bounds:2254,2452,338,535
+offsets:212,0,616,535
+rotate:90
+06WeiBa about Star
+bounds:45,3237,311,457
+rotate:90
+06WeiBa1
+bounds:2343,3457,299,419
+rotate:90
+06WeiBa2
+bounds:3600,2865,479,375
+06XuanFangCheng Door ZhuangShi2
+bounds:2,3922,187,172
+06hair2
+bounds:357,3969,125,280
+rotate:90
+06hair3
+bounds:2342,3882,212,191
+offsets:0,0,212,209
+rotate:90
+06hair5
+bounds:1213,3905,189,189
+06head
+bounds:3649,1769,432,424
+2Fox HouTui Leg down
+bounds:2491,3004,262,499
+rotate:90
+2Fox HouTui Leg up Guang
+bounds:1888,1860,361,448
+offsets:7,0,368,483
+2Fox HouTui MaoFa Guang
+bounds:845,3729,287,236
+offsets:0,0,287,252
+2Fox HouTui Zhua
+bounds:618,3901,213,193
+2Fox MaoFa HouTui2 Leg down
+bounds:1988,2753,426,552
+rotate:90
+2Fox MaoFa HouTui2 Leg up
+bounds:3263,3001,245,334
+rotate:90
+2Fox MaoFa HouTui2 MaoFa1 Guang
+bounds:3701,3534,272,276
+offsets:8,0,280,276
+2Fox MaoFa QianTui2 Leg down
+bounds:2324,839,520,872
+rotate:90
+2Fox MaoFa QianTui2 MaoFa1
+bounds:1389,2682,351,545
+2Fox MaoFa QianTui2 MaoFa1 Guang
+bounds:2866,3775,235,319
+offsets:0,0,238,319
+2Fox MaoFa QianTui2 MaoFa2
+bounds:574,3662,314,328
+rotate:90
+2Fox MaoFa QianTui2 MaoFa2 Guang
+bounds:1525,3589,261,274
+offsets:0,0,297,274
+2Fox MaoFa Zu1-1
+bounds:1628,3847,425,247
+2Fox MaoFa Zu1-3
+bounds:3225,3831,415,263
+2Fox QianTui Leg down
+bounds:1965,1095,437,572
+rotate:90
+2Fox QianTui Leg down Guang
+bounds:2990,3145,302,268
+2Fox QianTui Leg up
+bounds:2921,2078,339,621
+rotate:90
+2Fox QianTui Leg up Guang
+bounds:2915,3515,217,350
+offsets:0,0,217,368
+2Fox QianTui Mao1
+bounds:2381,1946,495,317
+2Fox QianTui Mao2
+bounds:1713,2610,377,542
+rotate:90
+2Fox QianTui Mao2 Guang
+bounds:2700,3808,231,286
+2Fox QianTui Mao4
+bounds:1032,1705,501,408
+offsets:0,81,508,489
+2Fox QianTui Red
+bounds:3010,3316,325,410
+rotate:90
+2Fox WeiBa Mao1 Guang
+bounds:307,1623,651,455
+offsets:255,14,906,469
+2Fox WeiBa Mao3
+bounds:2621,2585,826,528
+2Fox XiongMao2
+bounds:2001,2165,570,276
+2Fox XiongMao4
+bounds:1704,2333,325,435
+rotate:90
+2Fox XiongMao5
+bounds:215,918,536,501
+offsets:448,300,984,801
+rotate:90
+BG Mountain Zu2-1
+bounds:3568,2657,228,381
+offsets:2,2,232,385
+BG Mountain Zu2-10
+bounds:1385,3413,174,324
+offsets:2,2,178,328
+rotate:90
+BG Mountain Zu2-14
+bounds:1532,3229,182,350
+offsets:2,2,186,354
+rotate:90
+BG Mountain Zu2-5
+bounds:2179,3897,161,197
+offsets:2,2,165,201
+BG Mountain Zu2-7
+bounds:3310,2281,243,423
+offsets:2,2,247,427
+rotate:90
+BG Mountain Zu2-8
+bounds:1171,3235,176,359
+offsets:2,2,180,363
+rotate:90
+BG cloud10
+bounds:1000,2077,692,422
+BG cloud11
+bounds:898,967,1065,426
+BG cloud13
+bounds:1408,3759,471,335
+BG cloud3
+bounds:2,1340,608,419
+rotate:90
+BG cloud4
+bounds:2147,1514,827,507
+BG cloud5
+bounds:1885,3777,292,317
+BG cloud6
+bounds:1296,2366,595,368
+Fox HouTui Leg down Guang
+bounds:2323,3166,289,330
+offsets:0,94,289,432
+rotate:90
+Fox MaoFa HouTui2 Leg down Guang
+bounds:404,3078,322,333
+offsets:20,0,352,335
+rotate:90
+Huan1
+bounds:699,1260,1446,533
+Huan2
+bounds:2026,244,1563,835
+Qian JianZhu1
+bounds:2346,3611,302,205
+ShenGong JianZhu1
+bounds:3422,3248,346,180
+ShenGong JianZhu2
+bounds:3789,3787,307,236
+rotate:90
+ShenGong JianZhu3
+bounds:3735,2195,298,346
+rotate:90
+ShenGong JianZhu5
+bounds:504,3402,317,185
+XuanFangCheng Door ZhuangShi2
+bounds:176,3922,187,172
+XuanFangCheng Huan - 1
+bounds:3059,3411,524,925
+rotate:90
+XuanFangCheng Huan - 2
+bounds:2324,2666,531,925
+rotate:90
+mqa_BG Mountain3
+bounds:103,3774,223,320
+rotate:90
+mqa_BG Tree1
+bounds:1461,2064,267,425
+offsets:9,13,284,451
+rotate:90
+mqb_BG Mountain10
+bounds:521,2044,302,380
+rotate:90
+mqb_BG Mountain12
+bounds:3798,2495,252,378
+offsets:2,2,256,382
+mqb_BG Mountain8
+bounds:754,2568,244,645
+rotate:90
+mqb_BG Mountain9
+bounds:3770,3198,211,315
+rotate:90
+mqb_BG TingZi  1
+bounds:788,3951,143,261
+rotate:90
+mqb_BG TingZi 2
+bounds:2,3451,174,322
+offsets:2,2,178,326

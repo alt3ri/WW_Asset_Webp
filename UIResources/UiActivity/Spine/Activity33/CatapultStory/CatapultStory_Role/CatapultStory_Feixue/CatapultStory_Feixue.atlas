@@ -1,0 +1,128 @@
+CatapultStory_Feixue.webp
+size:2048,2048
+filter:Linear,Linear
+scale:0.85
+A_侧发 ←
+bounds:233,785,122,234
+offsets:5,21,150,259
+rotate:90
+A_侧发 →
+bounds:116,506,96,255
+offsets:12,5,114,267
+A_前发
+bounds:788,243,562,424
+offsets:3,17,573,459
+rotate:180
+A_发饰 ←
+bounds:2,454,208,307
+offsets:8,1,220,333
+A_发饰 →
+bounds:2,48,208,262
+offsets:6,5,218,273
+rotate:90
+A_右手
+bounds:233,1226,91,134
+offsets:15,34,112,173
+A_右手 前片
+bounds:2,1530,62,102
+offsets:17,5,112,173
+A_右手 后片
+bounds:59,651,51,87
+offsets:16,12,112,173
+A_后发
+bounds:77,108,390,713
+offsets:42,21,434,734
+rotate:270
+A_嘴
+bounds:2,1755,29,17
+A_左手
+bounds:464,762,71,130
+offsets:0,30,77,166
+A_左手 前片
+bounds:2,262,64,98
+offsets:6,0,77,166
+A_左手 后片
+bounds:894,1378,56,87
+offsets:12,4,77,166
+A_白色蝴蝶结 ←
+bounds:860,639,104,87
+offsets:6,6,122,115
+A_白色蝴蝶结 →
+bounds:1243,833,89,98
+offsets:7,5,104,140
+A_眼影
+bounds:1684,1478,324,66
+offsets:14,7,348,78
+rotate:180
+A_睫毛
+bounds:1098,76,347,77
+offsets:4,3,354,82
+A_瞳孔
+bounds:1169,774,278,101
+offsets:5,4,286,110
+A_耳饰
+bounds:548,351,45,119
+offsets:6,4,55,129
+A_脚
+bounds:393,22,137,110
+offsets:14,6,171,123
+A_脸
+bounds:1297,1488,436,284
+offsets:17,5,489,337
+A_花
+bounds:1414,11,101,155
+offsets:0,4,105,163
+rotate:90
+A_蝴蝶结
+bounds:1218,2,128,96
+offsets:5,10,139,117
+A_裙子
+bounds:1143,1670,170,102
+offsets:5,6,181,115
+A_身
+bounds:268,7,124,103
+offsets:15,74,150,185
+rotate:180
+A_金属装饰
+bounds:63,1529,78,44
+offsets:20,9,105,60
+B_前发
+bounds:1503,326,561,432
+offsets:56,138,617,584
+rotate:270
+B_花
+bounds:2,358,108,162
+offsets:0,3,108,165
+B_裙子
+bounds:759,724,166,100
+offsets:101,86,284,283
+B_身
+bounds:233,1088,130,98
+offsets:6,7,141,111
+rotate:270
+C_吊坠
+bounds:276,336,98,277
+offsets:0,3,101,283
+rotate:90
+C_树
+bounds:2,569,2036,1203
+offsets:72,147,2108,1350
+C_武器
+bounds:753,109,1122,175
+offsets:2,135,1144,343
+rotate:180
+C_武器 (0-00-00-00)
+bounds:2,763,765,230
+rotate:90
+C_武器 - 副本
+bounds:531,11,565,170
+offsets:1,0,566,170
+rotate:180
+C_武器_旋转模糊
+bounds:222,382,447,641
+offsets:416,600,1275,1275
+rotate:90
+弹珠
+bounds:1194,1587,83,83
+阴影
+bounds:1571,27,382,105

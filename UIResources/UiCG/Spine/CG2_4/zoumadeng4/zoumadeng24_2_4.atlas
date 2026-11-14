@@ -1,0 +1,435 @@
+zoumadeng24_2_4.webp
+size:4096,4096
+filter:Linear,Linear
+scale:0.62
+1
+bounds:2648,3473,433,321
+2
+bounds:2,1586,980,499
+rotate:180
+3
+bounds:3459,1140,583,203
+rotate:270
+BG
+bounds:2,2559,443,338
+rotate:180
+blue
+bounds:2648,2318,1153,347
+rotate:90
+bu1
+bounds:1042,1156,858,1037
+rotate:90
+cd1
+bounds:194,2578,221,107
+cd2
+bounds:1134,1860,179,229
+offsets:0,6,179,235
+rotate:90
+cd3
+bounds:981,4,487,329
+cloud1
+bounds:446,2048,77,35
+offsets:0,300,882,335
+cloud2
+bounds:2292,1467,849,791
+rotate:270
+cloud3
+bounds:455,434,560,465
+cloud4
+bounds:910,2928,862,781
+rotate:270
+dian
+bounds:1150,574,392,159
+offsets:1553,244,1945,459
+dian22
+bounds:1621,576,559,233
+dimian
+bounds:2,1317,1034,267
+down stone
+bounds:1426,42,248,196
+fire
+bounds:1275,2016,1017,725
+rotate:270
+guang
+bounds:2642,61,436,391
+offsets:271,0,707,391
+rotate:90
+heise
+bounds:1693,3702,31,31
+jianzhu1
+bounds:407,901,329,633
+rotate:90
+jianzhu2
+bounds:84,378,369,339
+jianzhu3
+bounds:2,2899,906,981
+jingji
+bounds:1838,958,507,675
+rotate:90
+ka ti xi ya1_R arm
+bounds:2,1037,288,534
+rotate:90
+ka ti xi ya1_ear
+bounds:2648,3815,381,65
+ka ti xi ya1_hair1
+bounds:3035,274,277,297
+rotate:90
+ka ti xi ya1_hair10
+bounds:1511,1317,64,160
+offsets:0,2,64,165
+ka ti xi ya1_hair4
+bounds:3512,1814,130,453
+ka ti xi ya1_hair5
+bounds:3104,465,322,665
+ka ti xi ya1_hair6
+bounds:1948,1788,560,850
+offsets:0,0,560,920
+rotate:270
+ka ti xi ya1_hair7
+bounds:3253,3008,195,872
+ka ti xi ya1_hair9
+bounds:3566,2841,119,594
+offsets:0,0,120,594
+ka ti xi ya1_tou guan1
+bounds:990,1329,427,110
+ka ti xi ya1_tou guan2
+bounds:910,3796,456,84
+ka ti xi ya2_arm
+bounds:1232,1966,98,142
+offsets:2,3,102,147
+ka ti xi ya2_body
+bounds:1734,1058,93,183
+offsets:2,2,99,187
+ka ti xi ya2_daizi
+bounds:1875,2245,63,107
+offsets:4,4,96,226
+ka ti xi ya2_ear
+bounds:446,2798,29,21
+offsets:6,7,39,33
+ka ti xi ya2_hair1
+bounds:228,2618,60,47
+offsets:1,5,64,56
+ka ti xi ya2_hair11
+bounds:2,2448,204,245
+offsets:0,3,205,252
+rotate:90
+ka ti xi ya2_hair2
+bounds:392,2598,28,54
+offsets:4,5,36,63
+ka ti xi ya2_hair22
+bounds:451,558,147,210
+offsets:3,6,151,219
+ka ti xi ya2_hair3
+bounds:985,2961,23,61
+offsets:7,11,35,78
+ka ti xi ya2_hair33
+bounds:1349,2974,20,44
+offsets:5,6,29,54
+ka ti xi ya2_hair44
+bounds:1192,3092,33,36
+offsets:4,5,41,47
+ka ti xi ya2_head
+bounds:1894,2465,58,73
+ka ti xi ya2_leg1
+bounds:902,748,158,325
+offsets:3,1,161,327
+rotate:90
+ka ti xi ya2_leg2
+bounds:1833,1705,83,309
+offsets:7,0,90,309
+ka ti xi ya2_lu pa forearm
+bounds:1757,2602,42,105
+ka ti xi ya2_lu pa hand
+bounds:2,2836,40,61
+ka ti xi ya2_piaodai1
+bounds:3486,3204,167,189
+offsets:1,6,170,195
+ka ti xi ya2_qunbai1
+bounds:1645,2761,40,100
+offsets:3,7,47,109
+ka ti xi ya2_qunbai2
+bounds:1565,3798,93,82
+offsets:2,5,99,92
+ka ti xi ya2_shouhuan
+bounds:725,2877,30,20
+ka ti xi ya2_tengwan
+bounds:2,2531,46,27
+ka ti xi ya2_toushi1
+bounds:233,1361,105,55
+ka ti xi ya2_toushi2
+bounds:1096,1441,104,34
+ka ti xi ya2_yibai1
+bounds:1456,902,142,196
+offsets:0,4,144,202
+ka ti xi ya2_yibai2
+bounds:3482,3604,201,276
+offsets:1,2,206,278
+ka ti xi ya3_L daizi
+bounds:2214,251,178,697
+offsets:1,0,179,697
+rotate:90
+ka ti xi ya3_R daizi
+bounds:2,24,192,690
+rotate:270
+ka ti xi ya3_about hair
+bounds:2,2029,1109,1272
+rotate:90
+ka ti xi ya3_arm2
+bounds:3085,1952,340,590
+ka ti xi ya3_body
+bounds:1661,2886,712,994
+ka ti xi ya3_ershi
+bounds:2997,2873,598,153
+rotate:90
+ka ti xi ya3_fasi
+bounds:1487,2935,92,51
+ka ti xi ya3_forearm
+bounds:3085,1534,421,307
+offsets:0,0,423,307
+rotate:90
+ka ti xi ya3_hair1
+bounds:3420,2268,140,271
+ka ti xi ya3_hair2
+bounds:3357,3533,223,347
+offsets:16,0,239,347
+ka ti xi ya3_hair3
+bounds:3274,751,276,445
+offsets:21,0,297,451
+rotate:180
+ka ti xi ya3_hair4
+bounds:3517,3395,130,303
+offsets:5,0,135,303
+ka ti xi ya3_hair5
+bounds:3434,3009,191,350
+offsets:1,0,192,350
+ka ti xi ya3_hair6
+bounds:3556,2057,111,265
+offsets:0,0,112,266
+ka ti xi ya3_head
+bounds:3017,1146,315,387
+ka ti xi ya3_jia1
+bounds:2889,553,374,591
+rotate:180
+ka ti xi ya3_jiao
+bounds:1021,132,275,374
+rotate:90
+ka ti xi ya3_kou
+bounds:1042,908,412,246
+ka ti xi ya3_shipin
+bounds:1631,2551,124,123
+ka ti xi ya3_tou guan1
+bounds:2182,529,886,196
+ka ti xi ya3_touguan2
+bounds:1698,2709,821,126
+rotate:90
+ka ti xi ya3_xianglian1
+bounds:3334,133,171,330
+ka ti xi ya3_xianglian2
+bounds:656,1803,38,61
+lupa1_L ershi
+bounds:910,2860,35,48
+lupa1_R ershi
+bounds:2,2790,27,44
+lupa1_about hair_hair1
+bounds:629,1864,73,162
+offsets:2,0,78,166
+lupa1_about hair_hair2
+bounds:2242,2885,101,221
+offsets:0,0,105,224
+lupa1_about hair_hair3
+bounds:1020,1440,90,67
+offsets:3,3,93,74
+lupa1_about hair_hudeijie2
+bounds:2291,3098,71,116
+offsets:4,1,78,117
+lupa1_arm
+bounds:980,685,495,1091
+rotate:90
+lupa1_body
+bounds:3286,1334,179,388
+lupa1_hair1
+bounds:1320,1892,79,109
+offsets:1,4,81,115
+lupa1_hair10
+bounds:1676,189,203,192
+lupa1_hair2
+bounds:853,1925,77,87
+offsets:0,1,80,91
+lupa1_hair3
+bounds:1229,3022,62,93
+offsets:2,4,67,98
+lupa1_hair4
+bounds:1739,3596,33,53
+offsets:0,3,41,58
+lupa1_hair5
+bounds:1693,3538,115,155
+offsets:3,1,119,157
+lupa1_hair6
+bounds:1878,2321,144,142
+offsets:2,1,148,145
+lupa1_hair7
+bounds:2299,3647,70,139
+offsets:3,3,80,147
+lupa1_hair8
+bounds:1662,6,164,383
+offsets:11,0,175,383
+rotate:90
+lupa1_hair9
+bounds:909,1232,79,133
+offsets:0,3,79,138
+lupa1_head
+bounds:538,1121,160,193
+lupa1_hudiejie
+bounds:1492,3792,71,88
+lupa1_leg1
+bounds:3035,2,271,270
+lupa1_leg2
+bounds:2579,1769,189,357
+rotate:90
+lupa1_shipin
+bounds:3507,11,149,291
+offsets:0,2,149,293
+lupa1_tou shi
+bounds:910,3024,135,124
+lupa1_toushi2
+bounds:700,1258,63,56
+lupa1_yibai zu1
+bounds:221,182,250,557
+rotate:90
+lupa1_yibai3
+bounds:707,1621,286,432
+offsets:0,4,286,512
+lupa1_yibai4
+bounds:3484,831,141,485
+lupa2_arm1
+bounds:1368,3809,122,71
+lupa2_arm2
+bounds:3379,1410,143,775
+offsets:2,0,147,775
+lupa2_body
+bounds:2,1344,135,164
+offsets:3,2,140,168
+lupa2_ershi
+bounds:397,2687,19,30
+lupa2_hair1
+bounds:1316,2944,40,59
+offsets:3,9,47,73
+lupa2_hair11
+bounds:1956,2911,50,111
+offsets:10,2,63,115
+lupa2_hair2
+bounds:2,2096,68,67
+offsets:1,4,72,79
+lupa2_hair22
+bounds:2691,1524,218,243
+offsets:2,1,220,246
+lupa2_hair3
+bounds:1581,2922,58,50
+offsets:4,4,65,67
+lupa2_hair4
+bounds:578,2824,104,73
+lupa2_hair5
+bounds:533,2854,42,43
+offsets:11,7,57,54
+lupa2_hair6
+bounds:1300,2900,19,58
+offsets:5,7,29,66
+lupa2_head
+bounds:2293,3788,76,92
+lupa2_hudiejie
+bounds:586,2777,40,45
+lupa2_leg1
+bounds:1893,810,192,383
+offsets:1,0,194,383
+rotate:90
+lupa2_leg2
+bounds:2,326,80,386
+offsets:0,4,80,390
+lupa2_piaodai
+bounds:3317,2343,338,664
+lupa2_san jiao qu
+bounds:1631,2676,58,83
+lupa2_toushi1
+bounds:1047,3101,35,41
+lupa2_toushi2
+bounds:684,2857,39,40
+lupa2_toushi3
+bounds:1047,3061,28,38
+lupa2_yibai1
+bounds:446,2819,29,61
+offsets:3,4,37,69
+lupa2_yibai2
+bounds:1417,1275,95,202
+offsets:7,16,102,218
+lupa2_yoashi
+bounds:1275,2875,25,57
+offsets:3,4,32,65
+lupa3_arm
+bounds:2182,632,730,446
+lupa3_body
+bounds:909,1479,804,603
+rotate:180
+lupa3_ear
+bounds:138,1343,93,115
+lupa3_ershi
+bounds:910,2910,73,112
+lupa3_hair1
+bounds:2081,1433,202,357
+lupa3_hair2
+bounds:707,223,188,298
+rotate:90
+lupa3_hair3
+bounds:3421,397,206,358
+offsets:0,0,206,394
+lupa3_hair4
+bounds:630,17,222,428
+rotate:90
+lupa3_hair6
+bounds:424,2620,161,275
+lupa3_hair7-1
+bounds:3392,3217,86,398
+lupa3_hair7-2
+bounds:1275,2932,143,148
+lupa3_hair8
+bounds:2997,2318,306,624
+offsets:11,0,317,624
+lupa3_hair9
+bounds:1961,2384,384,501
+lupa3_head
+bounds:2515,1050,430,415
+lupa3_hudiejie
+bounds:2829,1529,140,238
+offsets:1,2,141,240
+lupa3_piajian2
+bounds:3214,1949,395,242
+offsets:11,126,407,368
+rotate:270
+lupa3_piajian3
+bounds:1371,1649,460,365
+lupa3_pijian1
+bounds:448,1906,179,125
+lupa3_shengzi
+bounds:1826,2724,128,304
+lupa3_shipin1
+bounds:371,1981,73,104
+lupa3_toushi1
+bounds:313,2016,52,53
+lupa3_toushi2
+bounds:1574,1509,135,164
+offsets:3,0,138,164
+lupa3_toushi3
+bounds:3304,2544,297,213
+rotate:90
+shuxian
+bounds:1781,383,144,813
+rotate:90
+tree
+bounds:2,672,348,742
+rotate:270
+white
+bounds:1018,409,165,761
+rotate:90
+xian
+bounds:3152,2977,99,903
+xian22
+bounds:2376,2318,270,1562

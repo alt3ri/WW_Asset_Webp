@@ -1,0 +1,20 @@
+Pasture_Echo08.webp
+size:1832,912
+filter:Linear,Linear
+←前腿
+bounds:2,39,460,868
+←后腿
+bounds:1187,406,214,403
+rotate:90
+→前腿1
+bounds:464,32,283,901
+rotate:90
+→前腿2
+bounds:1757,362,70,258
+offsets:12,277,283,901
+→后腿
+bounds:1367,2,388,402
+车身
+bounds:464,317,721,590
+阴影 拷贝 2
+bounds:1187,622,585,285

@@ -1,0 +1,34 @@
+PhoneSyetem_TopPanel_Xin.webp
+size:512,512
+filter:Linear,Linear
+FX.小孔明灯
+bounds:201,290,116,199
+offsets:17,19,151,237
+rotate:270
+FX.小灯 ←
+bounds:2,178,190,143
+offsets:19,19,228,181
+FX.小灯 →
+bounds:212,361,92,40
+offsets:18,17,129,75
+rotate:180
+FX.标题灯笼
+bounds:371,342,108,137
+offsets:18,17,144,171
+FX.河
+bounds:2,396,384,83
+offsets:15,35,430,159
+FX.河 红线
+bounds:4,276,323,100
+offsets:91,18,430,159
+rotate:180
+FX.河上人 ←
+bounds:273,448,15,31
+offsets:18,19,52,68
+FX.河上人 →
+bounds:317,438,70,41
+offsets:17,18,106,76
+FX.灯笼穗
+bounds:2,369,75,94
+offsets:16,18,110,146
+rotate:180

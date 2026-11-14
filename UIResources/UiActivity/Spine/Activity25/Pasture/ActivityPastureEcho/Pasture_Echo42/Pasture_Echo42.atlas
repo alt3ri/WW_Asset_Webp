@@ -1,0 +1,26 @@
+Pasture_Echo42.webp
+size:1444,452
+filter:Linear,Linear
+1右前翅
+bounds:2,60,116,117
+rotate:90
+1后翅
+bounds:795,205,395,242
+1左前翅
+bounds:1353,60,149,89
+rotate:90
+1触角
+bounds:2,178,269,402
+rotate:90
+1身体
+bounds:795,2,259,201
+2前翅
+bounds:121,84,264,92
+2后翅
+bounds:1192,211,232,236
+2触角
+bounds:406,191,387,256
+2身体
+bounds:1056,7,295,196
+阴影 拷贝 7
+bounds:406,9,368,180

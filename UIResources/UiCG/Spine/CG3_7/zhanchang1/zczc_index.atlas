@@ -1,0 +1,257 @@
+zczc_index.webp
+size:4096,4096
+filter:Linear,Linear
+bg
+bounds:2,2709,3200,1345
+city
+bounds:2,59,2276,1345
+offsets:0,0,2277,1345
+heikuang
+bounds:3146,2585,11,4
+leaf_1
+bounds:3012,1858,236,94
+offsets:46,0,282,95
+rotate:90
+leaf_3 - 1
+bounds:3012,2096,171,138
+offsets:7,3,179,142
+leaf_3 - 2
+bounds:3012,1743,185,113
+offsets:4,3,190,117
+leaf_3 - 3
+bounds:3012,1633,184,108
+offsets:3,2,188,111
+leaf_3 - 4
+bounds:3886,696,162,97
+offsets:3,3,166,101
+rotate:90
+leaf_3 - 5
+bounds:3886,212,81,65
+offsets:3,3,85,69
+leaf_3 - 6
+bounds:2,27,98,30
+offsets:1,0,99,31
+leaf_h - 1
+bounds:102,21,81,36
+leaf_h - 10
+bounds:413,3,24,7
+leaf_h - 11
+bounds:244,5,32,20
+leaf_h - 12
+bounds:439,12,20,8
+leaf_h - 131
+bounds:3146,2627,40,37
+offsets:8,0,49,71
+leaf_h - 132
+bounds:303,31,42,26
+offsets:1,2,49,71
+leaf_h - 133
+bounds:3181,2509,19,33
+offsets:16,38,49,71
+leaf_h - 14
+bounds:3185,2673,14,34
+leaf_h - 15
+bounds:3180,1889,20,25
+leaf_h - 16
+bounds:101,2,22,17
+leaf_h - 17
+bounds:3162,2239,36,15
+leaf_h - 18
+bounds:3184,2598,15,27
+leaf_h - 19
+bounds:3146,2439,52,50
+offsets:0,0,52,51
+leaf_h - 2
+bounds:3180,1860,18,27
+offsets:0,1,18,28
+leaf_h - 20
+bounds:391,24,22,12
+offsets:0,0,22,13
+leaf_h - 22
+bounds:151,5,23,14
+leaf_h - 23
+bounds:3886,583,98,111
+leaf_h - 24
+bounds:3146,2666,37,41
+leaf_h - 25
+bounds:3886,160,71,50
+offsets:0,0,71,51
+leaf_h - 26
+bounds:330,2,26,20
+leaf_h - 27
+bounds:390,2,21,8
+offsets:1,0,22,8
+leaf_h - 28
+bounds:358,13,31,9
+leaf_h - 29
+bounds:37,6,39,19
+offsets:0,0,39,20
+leaf_h - 3
+bounds:3162,2256,25,31
+leaf_h - 30
+bounds:2280,867,35,12
+leaf_h - 31
+bounds:3146,2591,36,34
+offsets:1,0,37,34
+leaf_h - 32
+bounds:125,4,24,15
+leaf_h - 34
+bounds:3162,2317,26,36
+leaf_h - 35
+bounds:185,21,57,36
+leaf_h - 36
+bounds:347,24,23,33
+leaf_h - 37
+bounds:303,5,25,24
+leaf_h - 38
+bounds:3108,1863,70,51
+leaf_h - 39
+bounds:244,27,57,30
+leaf_h - 4
+bounds:3146,2491,33,51
+leaf_h - 40
+bounds:2,2,33,23
+leaf_h - 41
+bounds:3162,2355,28,34
+offsets:1,0,29,34
+leaf_h - 42
+bounds:78,6,21,19
+offsets:0,0,21,20
+leaf_h - 45
+bounds:391,12,26,10
+offsets:0,0,26,11
+leaf_h - 46
+bounds:196,9,30,10
+offsets:0,0,31,10
+leaf_h - 5
+bounds:3146,2544,41,37
+leaf_h - 6
+bounds:3188,2645,8,12
+offsets:1,0,9,12
+leaf_h - 7
+bounds:3162,2391,23,46
+leaf_h - 8
+bounds:3162,2289,31,26
+leaf_h - 9
+bounds:358,2,30,9
+npc_3
+bounds:2280,881,523,866
+offsets:0,0,523,867
+rotate:90
+npc_5
+bounds:3108,1916,89,178
+offsets:0,0,90,178
+qj_guang
+bounds:3203,860,3194,723
+offsets:1,0,3195,884
+rotate:90
+tx_1 - 10
+bounds:278,5,19,20
+offsets:1,1,22,22
+tx_1 - 11
+bounds:3886,279,97,69
+tx_1 - 12
+bounds:3886,350,131,61
+offsets:3,1,134,64
+rotate:90
+tx_1 - 13
+bounds:439,3,18,7
+offsets:2,0,22,8
+tx_1 - 3
+bounds:3188,2659,12,12
+offsets:2,2,16,17
+tx_1 - 4
+bounds:3012,1492,125,139
+offsets:1,1,128,141
+tx_1 - 5
+bounds:3181,2492,16,15
+offsets:1,1,18,17
+tx_1 - 6
+bounds:3886,483,95,98
+offsets:0,0,97,99
+tx_1 - 7
+bounds:3185,2223,15,14
+offsets:2,3,19,19
+tx_1 - 8
+bounds:3012,2236,148,201
+offsets:0,1,149,203
+tx_1 - 9
+bounds:176,2,18,17
+offsets:1,1,21,20
+tx_2
+bounds:2,1406,3008,1301
+offsets:88,0,3096,1326
+xyh_g
+bounds:2280,2,1604,856
+offsets:92,0,1748,877
+zj_7
+bounds:3012,2439,268,132
+offsets:1,0,269,132
+rotate:90
+
+zczc_index_2.webp
+size:4096,4096
+filter:Linear,Linear
+bird
+bounds:2,2840,1649,351
+fog
+bounds:1224,1380,2215,515
+guang
+bounds:1224,494,1305,884
+offsets:2,9,1317,893
+leaf_2
+bounds:430,3720,676,254
+offsets:15,4,692,258
+little girl
+bounds:923,3194,420,747
+offsets:1,0,426,747
+rotate:90
+little girl_g
+bounds:1672,2852,633,820
+offsets:3,0,674,848
+rotate:90
+npc_1
+bounds:2791,3529,445,702
+rotate:90
+npc_2
+bounds:1634,3636,338,623
+rotate:90
+npc_4
+bounds:2,3660,426,314
+offsets:0,0,427,316
+tx_1 - 1
+bounds:2,1197,1220,852
+offsets:1,0,1222,854
+tx_1 - 2
+bounds:912,2051,1060,787
+offsets:85,47,1222,854
+xyh
+bounds:2531,50,1434,1328
+offsets:0,0,1434,1345
+zj_1
+bounds:1108,3615,524,359
+offsets:0,0,525,359
+zj_2
+bounds:3494,3218,756,480
+offsets:0,0,767,480
+rotate:90
+zj_3
+bounds:3290,2281,683,935
+offsets:0,0,684,936
+zj_4
+bounds:2,2099,739,908
+offsets:1,0,740,908
+rotate:90
+zj_5
+bounds:2259,3486,530,488
+offsets:0,0,530,489
+zj_6
+bounds:2494,2744,794,740
+offsets:1,0,795,741
+zj_8
+bounds:2,3336,919,322
+offsets:1,0,920,322
+zj_9
+bounds:1974,1898,845,1103
+offsets:0,0,846,1104
+rotate:90

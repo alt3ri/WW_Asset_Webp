@@ -1,0 +1,139 @@
+DangoBrawl_Female.webp
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+FS 1
+bounds:98,251,56,50
+offsets:8,7,72,64
+FS 2
+bounds:734,419,88,228
+offsets:8,7,113,243
+FS 2 拷贝
+bounds:2,110,99,249
+offsets:8,7,115,265
+FS 3
+bounds:660,934,72,71
+offsets:34,30,115,108
+YY  ↑
+bounds:603,2,386,203
+offsets:4,4,426,209
+YY ←
+bounds:785,379,77,137
+offsets:8,9,94,155
+YY →
+bounds:883,811,90,117
+offsets:24,40,122,174
+→
+bounds:608,406,132,131
+offsets:3,3,140,139
+→ 拷贝
+bounds:554,529,153,155
+offsets:4,4,163,163
+后发
+bounds:2,252,658,475
+offsets:0,0,700,475
+rotate:90
+后发 拷贝
+bounds:477,254,676,499
+offsets:1,0,682,499
+rotate:270
+呆毛 1
+bounds:601,336,81,58
+offsets:9,9,99,75
+呆毛 1 拷贝
+bounds:236,894,104,54
+offsets:8,8,120,70
+呆毛 2
+bounds:536,455,53,111
+offsets:9,10,71,128
+呆毛 2 拷贝
+bounds:539,7,79,96
+offsets:8,9,95,112
+头
+bounds:115,405,438,309
+offsets:7,9,453,327
+头 拷贝
+bounds:2,900,458,105
+offsets:5,5,467,115
+开心 嘴
+bounds:107,926,30,12
+offsets:8,9,46,28
+开心 眉 ←
+bounds:43,905,96,20
+offsets:7,8,112,36
+开心 眉 →
+bounds:141,906,94,23
+offsets:9,8,112,36
+开心 眼 ←
+bounds:542,945,119,60
+offsets:9,7,136,75
+开心 眼 →
+bounds:596,783,122,60
+offsets:6,7,136,73
+开心 腮红 ←
+bounds:718,792,62,50
+offsets:10,7,88,65
+开心 腮红 →
+bounds:704,922,66,43
+offsets:11,11,91,63
+待机 嘴
+bounds:2,973,21,8
+得逞 嘴
+bounds:2,782,33,15
+offsets:8,7,49,30
+得逞 眉 ←
+bounds:54,923,86,36
+offsets:7,7,99,52
+得逞 眉 →
+bounds:421,701,81,37
+offsets:9,7,98,52
+得逞 眼 ←
+bounds:453,919,89,86
+offsets:9,9,107,102
+得逞 眼 →
+bounds:2,813,88,91
+offsets:9,9,107,108
+得逞 睫 ←
+bounds:85,862,116,41
+offsets:7,8,131,58
+得逞 睫 →
+bounds:704,762,115,44
+offsets:8,7,131,59
+得逞 高光 ←
+bounds:91,839,29,24
+offsets:8,8,46,40
+得逞 高光 →
+bounds:2,982,32,23
+offsets:8,8,49,40
+惊喜 嘴
+bounds:148,928,31,34
+offsets:9,8,48,53
+惊喜 星 ←
+bounds:797,721,66,82
+offsets:7,7,82,97
+惊喜 星 →
+bounds:696,347,63,82
+offsets:8,8,80,98
+惊喜 眼 ←
+bounds:36,12,94,127
+offsets:9,8,112,144
+惊喜 眼 →
+bounds:808,877,93,128
+offsets:8,11,109,148
+惊喜 高光 ←
+bounds:2,798,26,22
+offsets:8,8,42,39
+惊喜 高光 →
+bounds:129,891,26,24
+offsets:7,7,42,39
+流海
+bounds:104,10,403,315
+offsets:4,6,412,324
+流海 ←
+bounds:489,12,263,383
+offsets:6,4,275,392
+rotate:90
+流海 →
+bounds:515,517,265,382
+offsets:5,4,276,392
+rotate:270
